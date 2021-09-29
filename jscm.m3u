@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1,纯享4K 
 http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1,SiTV欢笑剧场 
+#EXTINF:-1,爱上4K 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#EXTINF:-1,SiTV欢笑剧场 
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1,4K花园生活 
 http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
@@ -147,6 +148,12 @@ http://183.207.248.112/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
 http://183.207.249.101/ott.js.chinamobile.com/PLTV/3/224/3221227707/index.m3u8
 #EXTINF:-1,SiTV都市剧场 
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1,求索动物 
+http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,求索科学 
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1,求索纪录 
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,湖南快乐垂钓 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
 #EXTINF:-1,湖南茶频道 
