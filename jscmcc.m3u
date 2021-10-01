@@ -137,8 +137,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226059/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226108/index.m3u8
 #EXTINF:-1,海南卫视 
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:-1,甘肃卫视
-http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u88
+#EXTINF:-1,甘肃卫视HD
+http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1,甘肃卫视 
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1,西藏卫视 
@@ -157,7 +157,7 @@ http://183.207.249.230/ott.js.chinamobile.com/PLTV/3/224/3221227648/index.m3u8
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226999/index.m3u8
 #EXTINF:-1,山东教育卫视 
 http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
-#EXTINF:-1,四川康巴卫视 
+#EXTINF:-1,康巴卫视 
 http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1,西藏藏语卫视 
 http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228022/index.m3u8
@@ -228,13 +228,9 @@ http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1,NewTV明星大片 
 http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1,黑莓动画
-http://223.110.241.150:6610/cntv/live1/donghuawg/donghuawg
-#EXTINF:-1,黑莓动画
 http://223.110.241.150:6610/gitv/live1/HD-8000k-1080P-Supercctv14/HD-8000k-1080P-Supercctv14
 #EXTINF:-1,黑莓电影
 http://223.110.241.150:6610/cntv/live1/HD-8000k-1080P-Supermovie/HD-8000k-1080P-Supermovie
-#EXTINF:-1,黑莓电影
-http://223.110.241.150:6610/cntv/live1/jdianying/jdianying
 #EXTINF:-1,黑莓电竞
 http://223.110.241.150:6610/cntv/live1/wmyx/wmyx
 #EXTINF:-1,陶瓷 
