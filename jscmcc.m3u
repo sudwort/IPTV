@@ -24,14 +24,12 @@ http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1,CCTV12
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1,CCTV13
-http://223.110.241.150:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+http://183.207.248.71/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
 #EXTINF:-1,CCTV14
 http://223.110.243.141/ott.js.chinamobile.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1,CCTV15
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1,CCTV16
-http://223.110.241.137:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ/1.m3u8
-#EXTINF:-1,CCTV16 4k
 http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV17
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
@@ -93,7 +91,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,金鹰纪实HD
+#EXTINF:-1,金鹰纪
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1,快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
@@ -117,6 +115,14 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,影视剧场
+http://183.207.248.71/gitv/live1/GITV-JS-1/GITV-JS-1
+#EXTINF:-1,咪咕精彩足球
+http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
+#EXTINF:-1,咪咕综合体育
+http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
+#EXTINF:-1,怀旧剧场
+http://183.207.248.71/gitv/live1/G_MIGU3-PNG/G_MIGU3-PNG
 #EXTINF:-1,东南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1,东方卫视
@@ -219,8 +225,6 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8
 http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227598/index.m3u8
 #EXTINF:-1,卡酷少儿
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1,金鹰卡通
-http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227630/index.m3u8
 #EXTINF:-1,金鹰纪实
 http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221228110/index.m3u8
 #EXTINF:-1,吉林篮球
