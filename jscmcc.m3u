@@ -55,8 +55,8 @@ http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/ind
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,风云足球
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,高尔夫网球
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,央视台球
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,怀旧剧场
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,女性时尚
@@ -65,7 +65,7 @@ http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/ind
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,央视文化精品
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1,央视台球
+#EXTINF:-1,高尔夫网球
 http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3u8
 #EXTINF:-1,纯享4K
 http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
