@@ -91,7 +91,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1,金鹰纪
+#EXTINF:-1,金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 #EXTINF:-1,快乐垂钓
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
@@ -116,15 +116,13 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u
 #EXTINF:-1,第一院线
-http://183.207.248.71/gitv/live1/GITV-JS-2/GITV-JS-
+http://183.207.248.71/gitv/live1/GITV-JS-2/GITV-JS-2
 #EXTINF:-1,影视剧场
 http://183.207.248.71/gitv/live1/GITV-JS-1/GITV-JS-1
 #EXTINF:-1,咪咕精彩足球
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
 #EXTINF:-1,咪咕综合体育
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
-#EXTINF:-1,怀旧剧场
-http://183.207.248.71/gitv/live1/G_MIGU3-PNG/G_MIGU3-PNG
 #EXTINF:-1,东南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1,东方卫视
