@@ -207,10 +207,8 @@ http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227580/index.m3u8
 http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227645/index.m3u8
 #EXTINF:-1,西藏藏语卫视
 http://223.110.236.13/ott.js.chinamobile.com/PLTV/3/224/3221228022/index.m3u8
-#EXTINF:-1,中国教育1台HD
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,中国教育1台
-http://183.207.248.171/ott.js.chinamobile.com/PLTV/3/224/3221225909/index.m3u8
+http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,中国教育2台
 http://183.207.249.203/ott.js.chinamobile.com/PLTV/3/224/3221227607/index.m3u8
 #EXTINF:-1,中国教育3台
@@ -225,8 +223,6 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8
 http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227598/index.m3u8
 #EXTINF:-1,卡酷少儿
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1,金鹰纪实
-http://223.110.236.7/ott.js.chinamobile.com/PLTV/3/224/3221228110/index.m3u8
 #EXTINF:-1,吉林篮球
 http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227023/index.m3u8
 #EXTINF:-1,中华美食
