@@ -24,7 +24,7 @@ http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1,CCTV12
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1,CCTV13
-http://183.207.248.71/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ
+http://112.25.63.197:8080/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,CCTV14
 http://112.25.63.197:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,CCTV15
