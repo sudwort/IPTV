@@ -20,7 +20,7 @@ http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8
 #EXTINF:-1,CCTV10
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1,CCTV11
-http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227720/index.m3u8
+http://112.25.63.197:8080/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,CCTV12
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1,CCTV13
@@ -28,7 +28,7 @@ http://112.25.63.197:8080/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
 #EXTINF:-1,CCTV14
 http://112.25.63.197:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,CCTV15
-http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
 #EXTINF:-1,CCTV16
 http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV17
@@ -231,10 +231,6 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227647/index.m3u8
 http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227020/index.m3u8
 #EXTINF:-1,弈坛春秋
 http://183.207.249.167/ott.js.chinamobile.com/PLTV/3/224/3221227031/index.m3u8
-#EXTINF:-1,京视剧场
-http://183.207.249.136/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-#EXTINF:-1,置业频道
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
 #EXTINF:-1,NewTV潮妈辣婆
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1,NewTV中国功夫
