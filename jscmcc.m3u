@@ -16,7 +16,7 @@ http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1,CCTV8
 http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227473/index.m3u8
 #EXTINF:-1,CCTV9
-http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
 #EXTINF:-1,CCTV10
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1,CCTV11
@@ -32,7 +32,7 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8
 #EXTINF:-1,CCTV16
 http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
 #EXTINF:-1,CCTV17
-http://112.25.63.197:8080/gitv_live/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8?p=GITV&area=JS_CMCC_CP
+http://ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1,CCTV5+
 http://183.207.248.231/ott.js.chinamobile.com/PLTV/3/224/3221227502/index.m3u8
 #EXTINF:-1,凤凰中文
