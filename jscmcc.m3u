@@ -162,7 +162,7 @@ http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1,内蒙古卫视
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227557/index.m3u8
 #EXTINF:-1,南方卫视
-http://183.207.248.230/ott.js.chinamobile.com/PLTV/3/224/3221227587/index.m3u8
+http://223.110.245.168:80/PLTV/4/224/3221227005/index.m3u8
 #EXTINF:-1,厦门卫视
 http://223.110.245.169:80/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1,吉林卫视
@@ -196,7 +196,7 @@ http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1,青海卫视
 http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
 #EXTINF:-1,兵团卫视
-http://183.207.249.230/ott.js.chinamobile.com/PLTV/3/224/3221227654/index.m3u8
+http://183.207.249.34:80/PLTV/4/224/3221227025/index.m3u8
 #EXTINF:-1,农林卫视
 http://183.207.249.34:80/PLTV/4/224/3221227015/index.m3u8
 #EXTINF:-1,安多卫视
@@ -276,7 +276,7 @@ http://183.207.249.102/ott.js.chinamobile.com/PLTV/3/224/3221225925/index.m3u8
 #EXTINF:-1,江苏城市
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
 #EXTINF:-1,江苏影视
-http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221225937/index.m3u8
+http://183.207.249.5:80/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1,江苏教育
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1,江苏综艺
