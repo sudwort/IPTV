@@ -56,14 +56,13 @@ http://[2001:250:4801::430:89]/hls/hls184a510.m3u8
 #EXTINF:-1,央视台球
 http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 #EXTINF:-1,怀旧剧场
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+http://[2001:250:4801::430:89]/hls/hls184a518.m3u8
 #EXTINF:-1,女性时尚
+http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 #EXTINF:-1,世界地理
-
-
 http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
 #EXTINF:-1,央视文化精品
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 #EXTINF:-1,高尔夫网球
 http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3u8
 #EXTINF:-1,纯享4K
@@ -126,6 +125,20 @@ http://183.207.248.71/gitv/live1/GITV-JS-1/GITV-JS-1
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
 #EXTINF:-1,咪咕综合体育
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
+#EXTINF:-1 ,足球频道
+http://[2001:250:4801::430:89]/hls/zqhd.m3u
+#EXTINF:-1 ,大众影视
+http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
+#EXTINF:-1 ,家庭剧
+http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
+#EXTINF:-1 ,家庭影院 
+http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
+#EXTINF:-1 ,卡通剧场 
+http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
+#EXTINF:-1 ,晴天动画馆 
+http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
+#EXTINF:-1 
+http://[2001:250:4801::430:89]/hls/hls78a48.m3u8
 #EXTINF:-1,东南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1,东方卫视
@@ -269,9 +282,9 @@ http://183.207.248.135/ott.js.chinamobile.com/PLTV/3/224/3221227030/index.m3u8
 #EXTINF:-1,CCTV老故事
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
 #EXTINF:-1,CGTN
-http://183.207.249.136/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+http://[2001:250:4801::430:89]/hls/hls185a571.m3u8
 #EXTINF:-1,CGTN纪录
-http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227574/index.m3u8
+http://[2001:250:4801::430:89]/hls/hls67a44.m3u8
 #EXTINF:-1,江苏体育休闲
 http://223.110.245.156/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1,江苏公共新闻
