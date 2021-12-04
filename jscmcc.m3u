@@ -129,16 +129,18 @@ http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguao
 http://[2001:250:4801::430:89]/hls/zqhd.m3u
 #EXTINF:-1 ,大众影视
 http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
-#EXTINF:-1 ,家庭剧
+#EXTINF:-1 ,家庭剧场
 http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
-#EXTINF:-1 ,家庭影院 
+#EXTINF:-1 ,家庭影院
 http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
-#EXTINF:-1 ,卡通剧场 
+#EXTINF:-1 ,卡通剧场
 http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
-#EXTINF:-1 ,晴天动画馆 
+#EXTINF:-1 ,晴天动画馆
 http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
-#EXTINF:-1 
+#EXTINF:-1 ,时光剧场
 http://[2001:250:4801::430:89]/hls/hls78a48.m3u8
+#EXTINF:-1 ,爱映画
+http://[2001:250:4801::430:89]/hls/hls78a46.m3u8
 #EXTINF:-1,东南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1,东方卫视
