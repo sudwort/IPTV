@@ -44,7 +44,7 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1,兵器科技
 http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
 #EXTINF:-1,第一剧场
-http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
+http://[2001:250:4801::430:89]/hls/hls184a512.m3u8
 #EXTINF:-1,电视指南
 http://[2001:250:4801::430:89]/hls/hls186a88.m3u8
 #EXTINF:-1,风云剧场
@@ -127,14 +127,7 @@ http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguao
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
 #EXTINF:-1 ,足球频道
 http://[2001:250:4801::430:89]/hls/zqhd.m3u
-#EXTINF:-1 ,大众影视
-http://[2001:250:4801::430:89]/hls/hls75a27.m3u8
-#EXTINF:-1 ,家庭剧场
-http://[2001:250:4801::430:89]/hls/hls75a28.m3u8
-#EXTINF:-1 ,家庭影院
 http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
-#EXTINF:-1 ,卡通剧场
-http://[2001:250:4801::430:89]/hls/hls77a30.m3u8
 #EXTINF:-1 ,晴天动画馆
 http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
 #EXTINF:-1 ,时光剧场
