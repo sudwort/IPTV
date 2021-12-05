@@ -85,6 +85,8 @@ http://183.207.248.112/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
 http://183.207.249.101/ott.js.chinamobile.com/PLTV/3/224/3221227707/index.m3u8
 #EXTINF:-1,SITV都市剧场
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1,SITV极速汽车
+http://[2001:250:4801::430:89]/hls/hls184a94.m3u8
 #EXTINF:-1,求索纪录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1,求索生活
