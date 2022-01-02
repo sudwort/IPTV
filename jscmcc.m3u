@@ -36,7 +36,7 @@ http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8
 #EXTINF:-1,CCTV5+
 http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228176/index.m3u8
 #EXTINF:-1,CCTV4k
-http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u
+http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
 #EXTINF:-1,凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1,凤凰资讯
@@ -198,12 +198,6 @@ http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227577/index.m3u8
 http://223.110.245.169:80/PLTV/4/224/3221227009/index.m3u8
 #EXTINF:-1,卡酷少儿
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1,吉林篮球
-http://223.110.245.173:80/PLTV/4/224/3221227023/index.m3u8
-#EXTINF:-1,中华美食
-http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227647/index.m3u8
-#EXTINF:-1,国学频道
-http://183.207.249.103/ott.js.chinamobile.com/PLTV/3/224/3221227020/index.m3u8
 #EXTINF:-1,弈坛春秋
 http://183.207.249.167/ott.js.chinamobile.com/PLTV/3/224/3221227031/index.m3u8
 #EXTINF:-1,NewTV潮妈辣婆
