@@ -127,15 +127,6 @@ http://183.207.248.71/gitv/live1/GITV-JS-1/GITV-JS-1
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun1/HD-8000k-1080P-miguaoyun1
 #EXTINF:-1,咪咕综合体育
 http://183.207.248.71/gitv/live1/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2
-#EXTINF:-1 ,足球频道
-http://[2001:250:4801::430:89]/hls/zqhd.m3u
-http://[2001:250:4801::430:89]/hls/hls75a29.m3u8
-#EXTINF:-1 ,晴天动画馆
-http://[2001:250:4801::430:89]/hls/hls78a47.m3u8
-#EXTINF:-1 ,时光剧场
-http://[2001:250:4801::430:89]/hls/hls78a48.m3u8
-#EXTINF:-1 ,爱映画
-http://[2001:250:4801::430:89]/hls/hls78a46.m3u8
 #EXTINF:-1,东南卫视
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1,东方卫视
@@ -169,7 +160,7 @@ http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227729/index.m3u8
 #EXTINF:-1,黑龙江卫视
 http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1,云南卫视
-http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227571/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228169/index.m3u8
 #EXTINF:-1,青海卫视
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1,内蒙古卫视
@@ -179,27 +170,25 @@ http://223.110.245.168:80/PLTV/4/224/3221227005/index.m3u8
 #EXTINF:-1,厦门卫视
 http://223.110.245.169:80/PLTV/4/224/3221226996/index.m3u8
 #EXTINF:-1,吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226047/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228130/index.m3u8
 #EXTINF:-1,宁夏卫视
 http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227563/index.m3u8
 #EXTINF:-1,山西卫视
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227559/index.m3u8
 #EXTINF:-1,广西卫视
-http://223.110.243.144/ott.js.chinamobile.com/PLTV/3/224/3221227609/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228183/index.m3u8
 #EXTINF:-1,延边卫视
 http://223.110.245.137:80/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1,新疆卫视
-http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225523/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228290/index.m3u8
 #EXTINF:-1,河北卫视
 http://223.110.241.137:6610/gitv/live1/G_HEBEI-CQ/G_HEBEI-CQ/1.m3u8
 #EXTINF:-1,河南卫视
 http://223.110.241.137:6610/gitv/live1/G_HENAN-CQ/G_HENAN-CQ/1.m3u8
 #EXTINF:-1,海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:-1,甘肃卫视HD
-http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1,甘肃卫视
-http://223.110.243.140/ott.js.chinamobile.com/PLTV/3/224/3221227568/index.m3u8
+http://ott.js.chinamobile.com/PLTV/3/224/3221228166/index.m3u8
 #EXTINF:-1,西藏卫视
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227562/index.m3u8
 #EXTINF:-1,贵州卫视
