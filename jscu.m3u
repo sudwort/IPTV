@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml" name="江苏联通 OTT 单播"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml" name="江苏联通IPTV"
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
 rtsp://112.86.202.37:554/JSBC_iptv/C10000037@JSBC
