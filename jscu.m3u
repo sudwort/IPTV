@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-2
