@@ -1,211 +1,156 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/fanmingming/live/main/e.xml" name="江苏联通IPTV"
-
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
-rtsp://112.86.202.37:554/JSBC_iptv/C10000037@JSBC
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
-http://112.86.202.37:8106/JSBC_iptv/C10000038@JSBC
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://112.86.202.37:8106/JSBC_iptv/C10000220@JSBC
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://112.86.202.37:8106/JSBC_iptv/C10000039@JSBC
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
-rtsp://112.86.202.37:554/JSBC_iptv/C10000221@JSBC
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://112.86.202.37:8106/JSBC_iptv/C10000040@JSBC
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
-http://122.97.211.133:8106/JSBC_iptv/C10000222@JSBC
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防军事 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000196@JSBC
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://122.97.211.133:8106/JSBC_iptv/C10000223@JSBC
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://112.86.202.37:8106/JSBC_iptv/C10000042@JSBC
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
-http://112.86.202.37:8106/JSBC_iptv/C10000119@JSBC
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000023@JSBC
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://112.86.202.37:8106/JSBC_iptv/C10000120@JSBC
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://112.86.202.37:8106/JSBC_iptv/C10000232@JSBC
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://112.86.202.37:8106/JSBC_iptv/C10000121@JSBC
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000027@JSBC
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://122.97.211.133:8106/JSBC_iptv/C10000193@JSBC
-#EXTINF: -1 tvg-id="7249" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农村农业
-http://112.86.202.37:8106/JSBC_iptv/C10000041@JSBC
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 英语 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000021@JSBC
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN 俄语
-http://122.97.211.133:8106/JSBC_iptv/C10000233@JSBC
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="江苏地方",江苏卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000015@JSBC
-#EXTINF:-1 tvg-name="江苏公共新闻" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB.png" group-title="江苏地方",江苏新闻
-http://112.86.202.37:8106/JSBC_iptv/C10000229@JSBC
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82.png" group-title="江苏地方",江苏城市
-http://112.86.202.37:8106/JSBC_iptv/C10000224@JSBC
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E7%BB%BC%E8%89%BA.png" group-title="江苏地方",江苏综艺
-http://112.86.202.37:8106/JSBC_iptv/C10000225@JSBC
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86.png" group-title="江苏地方",江苏影视
-http://112.86.202.37:8106/JSBC_iptv/C10000227@JSBC
-#EXTINF:-1 tvg-name="江苏教育电视台" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="江苏地方",江苏教育
-http://112.86.202.37:8106/JSBC_iptv/C10000231@JSBC
-#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E4%BC%91%E9%97%B2%E4%BD%93%E8%82%B2.png" group-title="江苏地方",江苏体育休闲
-http://112.86.202.37:8106/JSBC_iptv/C10000226@JSBC
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="江苏地方",优漫卡通
-http://112.86.202.37:8106/JSBC_iptv/C10000228@JSBC
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E5%9B%BD%E9%99%85.png" group-title="江苏地方",江苏国际 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000032@JSBC
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="江苏地方",财富天下 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000099@JSBC
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="江苏地方",南京新闻综合 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000128@JSBC
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E5%BD%B1%E8%A7%86.png" group-title="江苏地方",南京影视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000153@JSBC
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91.png" group-title="江苏地方",南京教科 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000122@JSBC
-#EXTINF:-1 tvg-name="南京生活" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E7%94%9F%E6%B4%BB.png" group-title="江苏地方",南京生活 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000123@JSBC
-#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E4%BF%A1%E6%81%AF.png" group-title="江苏地方",南京信息 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000155@JSBC
-#EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E5%A8%B1%E4%B9%90.png" group-title="江苏地方",南京娱乐 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000154@JSBC
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E5%B0%91%E5%84%BF.png" group-title="江苏地方",南京少儿 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000156@JSBC
-#EXTINF:-1 tvg-name="南京十八" tvg-logo="https://epg.112114.xyz/logo/%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB.png" group-title="江苏地方",南京十八 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000129@JSBC
-#EXTINF:-1 tvg-name="徐州新闻综合" group-title="江苏地方",徐州新闻综合 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000145@JSBC
-#EXTINF:-1 tvg-name="徐州经济生活" group-title="江苏地方",徐州经济生活 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000146@JSBC
-#EXTINF:-1 tvg-name="徐州文艺影视" group-title="江苏地方",徐州文艺影视 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000147@JSBC
-#EXTINF:-1 tvg-name="徐州公共" group-title="江苏地方",徐州公共 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000148@JSBC
-#EXTINF:-1 tvg-name="盐城一套" group-title="江苏地方",盐城一套
-http://122.97.211.133:8106/JSBC_iptv/C10000234@JSBC
-#EXTINF:-1 tvg-name="泰州一套" tvg-logo="https://epg.112114.xyz/logo/%E6%B3%B0%E5%B7%9E%E4%B8%80%E5%A5%97.png" group-title="江苏地方",泰州新闻综合 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000215@JSBC
-#EXTINF:-1 tvg-name="淮安综合" group-title="江苏地方",淮安综合 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000144@JSBC
-#EXTINF:-1 tvg-name="淮安公共" group-title="江苏地方",淮安公共 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000149@JSBC
-#EXTINF:-1 tvg-name="淮安影视娱乐" group-title="江苏地方",淮安影视娱乐 (标清)
-http://122.97.211.133:8106/JSBC_iptv/C10000150@JSBC
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000046@JSBC
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000045@JSBC
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000044@JSBC
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000192@JSBC
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000047@JSBC
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000198@JSBC
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000052@JSBC
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000053@JSBC
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000141@JSBC
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000200@JSBC
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000168@JSBC
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000169@JSBC
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000170@JSBC
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000185@JSBC
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000172@JSBC
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000043@JSBC
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000051@JSBC
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000050@JSBC
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000048@JSBC
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000202@JSBC
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000049@JSBC
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000171@JSBC
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://112.86.202.37:8106/JSBC_iptv/C10000167@JSBC
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="卫视",山东教育卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000180@JSBC
-#EXTINF:-1 tvg-id="46" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000094@JSBC
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="卫视",大湾区卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000178@JSBC
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000177@JSBC
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000164@JSBC
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000163@JSBC
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000165@JSBC
-#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000096@JSBC
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000166@JSBC
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000184@JSBC
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="其他",CETV-1
-http://112.86.202.37:8106/JSBC_iptv/C10000173@JSBC
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="其他",CETV-2 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000098@JSBC
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="其他",CETV-4 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000101@JSBC
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="其他",央视电视指南
-http://112.86.202.37:8106/JSBC_iptv/C10000203@JSBC
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="其他",央视风云剧场
-http://112.86.202.37:8106/JSBC_iptv/C10000208@JSBC
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="其他",央视怀旧剧场
-http://112.86.202.37:8106/JSBC_iptv/C10000210@JSBC
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="其他",央视文化精品
-http://112.86.202.37:8106/JSBC_iptv/C10000209@JSBC
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="其他",央视世界地理
-http://112.86.202.37:8106/JSBC_iptv/C10000206@JSBC
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="其他",央视兵器科技
-http://112.86.202.37:8106/JSBC_iptv/C10000207@JSBC
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="其他",央视风云音乐
-http://112.86.202.37:8106/JSBC_iptv/C10000211@JSBC
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="其他",央视风云足球
-http://112.86.202.37:8106/JSBC_iptv/C10000204@JSBC
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="其他",央视高尔夫·网球
-http://112.86.202.37:8106/JSBC_iptv/C10000205@JSBC
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="其他",央视台球
-http://122.97.211.133:8106/JSBC_iptv/C10000217@JSBC
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="其他",央视女性时尚
-http://112.86.202.37:8106/JSBC_iptv/C10000212@JSBC
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="其他",湖南快乐垂钓
-http://112.86.202.37:8106/JSBC_iptv/C10000142@JSBC
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他",湖南茶频道
-http://112.86.202.37:8106/JSBC_iptv/C10000160@JSBC
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他",金鹰纪实
-http://112.86.202.37:8106/JSBC_iptv/C10000187@JSBC
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="其他",金鹰卡通
-http://122.97.211.133:8106/JSBC_iptv/C10000216@JSBC
-#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="其他",先锋乒羽 (标清)
-http://112.86.202.37:8106/JSBC_iptv/C10000159@JSBC
-#EXTINF:-1 tvg-id="6555" tvg-name="中数梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="其他",梨园频道
-http://122.97.211.133:8106/JSBC_iptv/C10000235@JSBC
-#EXTINF:-1 tvg-id="6586" tvg-name="中数武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="其他",武术世界
-http://122.97.211.133:8106/JSBC_iptv/C10000236@JSBC
-#EXTINF:-1 tvg-id="6591" tvg-name="中数文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="其他",文物宝库
-http://122.97.211.133:8106/JSBC_iptv/C10000237@JSBC
-#EXTINF:-1 group-title="其他",精彩推荐
-rtsp://112.86.202.37:554/JSBC_iptv/C10000118@JSBC
-#EXTINF:-1 group-title="电视购物",好享购物
-http://112.86.202.37:8106/JSBC_iptv/C10000230@JSBC
-
+#EXTINF:-1 group-title="CCTV",CCTV-1
+http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-2
+http://112.86.202.37:8112/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-3
+http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-4
+http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-5
+http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-5+
+http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-6
+http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-7
+http://112.86.202.37:8112/JSBC_iptv/C10000403@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-8
+http://112.86.202.37:8112/JSBC_iptv/C10000223@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-9
+http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-10
+http://112.86.202.37:8112/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-11
+http://112.86.202.37:8112/JSBC_iptv/C10000402@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-12
+http://112.86.202.37:8112/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-13
+http://112.86.202.37:8112/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-14
+http://112.86.202.37:8112/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-15
+http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-16
+http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-17
+http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN
+http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-俄语
+http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 group-title="卫视",东方卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 group-title="卫视",广东卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 group-title="卫视",山东卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 group-title="卫视",天津卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 group-title="卫视",四川卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 group-title="卫视",江西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 group-title="卫视",东南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 group-title="卫视",河北卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 group-title="卫视",河南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 group-title="卫视",青海卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 group-title="卫视",广西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 group-title="卫视",海南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 group-title="卫视",云南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC#
+#EXTINF:-1 group-title="卫视",山西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000094@JSBC
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000163@JSBC
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000165@JSBC
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000177@JSBC
+#EXTINF:-1 group-title="卫视",山东教育卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000180@JSBC
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000184@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视4k
+http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
+#EXTINF:-1 group-title="地方台",江苏城市
+http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 group-title="地方台",江苏综艺
+http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="地方台",江苏体育·休闲
+http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 group-title="地方台",江苏影视
+http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="地方台",江苏新闻
+http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 group-title="地方台",好享购物
+http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 group-title="地方台",江苏教育
+http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="其他",CETV-1
+http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 group-title="其他",CETV-2
+http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
+#EXTINF:-1 group-title="其他",CETV-4
+http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 group-title="其他",中国天气
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 group-title="其他",先锋乒羽
+http://112.86.202.37:8112/JSBC_iptv/C10000159@JSBC
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 group-title="其他",优漫卡通
+http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="其他",梨园频道
+http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 group-title="其他",武术世界
+http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 group-title="其他",文物宝库
+http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 group-title="其他",东方财经
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",法治天地
+http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 group-title="其他",生活时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 group-title="其他",都市剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
