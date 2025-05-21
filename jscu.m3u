@@ -112,7 +112,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 group-title="卫视",西藏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000184@JSBC
 #EXTINF:-1 group-title="卫视",北京卫视4k
-http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
+http://122.97.211.1331:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 group-title="地方台",江苏城市
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 group-title="地方台",江苏综艺
@@ -127,6 +127,12 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 group-title="地方台",江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="地方台",南通综合
+http://122.97.211.1331:8112/JSBC_iptv/C10000411@JSBC
+#EXTINF:-1 group-title="地方台",南通社教
+http://122.97.211.1331:8112/JSBC_iptv/C10000412@JSBC
+#EXTINF:-1 group-title="地方台",南通公共
+http://122.97.211.1331:8112/JSBC_iptv/C10000413@JSBC
 #EXTINF:-1 group-title="其他",CETV-1
 http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
 #EXTINF:-1 group-title="其他",CETV-2
@@ -169,3 +175,4 @@ http://112.86.202.37:8112/JSBC_iptv/C10000429@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
 #EXTINF:-1 group-title="其他",晴彩竞技
 http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
+
