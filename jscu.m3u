@@ -37,6 +37,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN
 http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN
+https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CCTV",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
