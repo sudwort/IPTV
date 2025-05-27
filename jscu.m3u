@@ -9,8 +9,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-5
 http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-5+
-http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-6
 http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-7
@@ -35,6 +33,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-5+
+http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN
 http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN
@@ -43,6 +43,8 @@ https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream05/strea
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视4k
+http://122.97.211.133:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -113,8 +115,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000432@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 group-title="卫视",西藏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000184@JSBC
-#EXTINF:-1 group-title="卫视",北京卫视4k
-http://122.97.211.133:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 group-title="地方台",江苏城市
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 group-title="地方台",江苏综艺
@@ -129,7 +129,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
 #EXTINF:-1 group-title="地方台",江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
-#EXTINF:-1 group-title="地方台",南通新闻
+#EXTINF:-1 group-title="地方台",南通新闻综合
 http://122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
 #EXTINF:-1 group-title="地方台",南通社教
 http://122.97.211.133:8112/JSBC_iptv/C10000412@JSBC
@@ -179,5 +179,3 @@ http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
 #EXTINF:-1 group-title="其他",TEST
 rtsp://112.86.202.37:554/JSBC_iptv/C100000220@JSBC
-
-
