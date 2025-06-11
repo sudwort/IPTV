@@ -183,5 +183,11 @@ http://112.86.202.37:8112/JSBC_iptv/C10000429@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 group-title="其他",CHC影迷电影
+http://10.0.0.20:35455/mgtv/952383261.m3u8
+#EXTINF:-1 group-title="其他",CHC动作电影
+http://10.0.0.20:35455/mgtv/644368714.m3u8
+#EXTINF:-1 group-title="其他",CHC家庭影院
+http://10.0.0.20:35455/mgtv/644368373.m3u8
 #EXTINF:-1 group-title="其他",TEST
 http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
