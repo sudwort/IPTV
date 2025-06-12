@@ -44,7 +44,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
 #EXTINF:-1 group-title="卫视",北京卫视4k
-http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -190,4 +190,4 @@ http://10.0.0.20:35455/mgtv/644368714.m3u8
 #EXTINF:-1 group-title="其他",CHC家庭影院
 http://10.0.0.20:35455/mgtv/644368373.m3u8
 #EXTINF:-1 group-title="其他",TEST
-http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
