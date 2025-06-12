@@ -189,5 +189,13 @@ http://10.0.0.20:35455/mgtv/952383261.m3u8
 http://10.0.0.20:35455/mgtv/644368714.m3u8
 #EXTINF:-1 group-title="其他",CHC家庭影院
 http://10.0.0.20:35455/mgtv/644368373.m3u8
+#EXTINF:-1 group-title="其他",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="其他",凤凰卫视中文台
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="其他",凤凰卫视资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="其他",凤凰卫视香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="其他",TEST
 http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
