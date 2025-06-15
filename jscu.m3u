@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-2
