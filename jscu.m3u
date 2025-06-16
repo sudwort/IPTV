@@ -1,37 +1,37 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 group-title="CCTV",CCTV-1
+#EXTINF:-1 group-title="CCTV",CCTV1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-2
+#EXTINF:-1 group-title="CCTV",CCTV2
 http://112.86.202.37:8112/JSBC_iptv/C10000038@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-3
+#EXTINF:-1 group-title="CCTV",CCTV3
 http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-4
+#EXTINF:-1 group-title="CCTV",CCTV4
 http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-5
+#EXTINF:-1 group-title="CCTV",CCTV5
 http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-6
+#EXTINF:-1 group-title="CCTV",CCTV6
 http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-7
+#EXTINF:-1 group-title="CCTV",CCTV7
 http://112.86.202.37:8112/JSBC_iptv/C10000403@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-8
+#EXTINF:-1 group-title="CCTV",CCTV8
 http://112.86.202.37:8112/JSBC_iptv/C10000223@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-9
+#EXTINF:-1 group-title="CCTV",CCTV9
 http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-10
+#EXTINF:-1 group-title="CCTV",CCTV10
 http://112.86.202.37:8112/JSBC_iptv/C10000119@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-11
+#EXTINF:-1 group-title="CCTV",CCTV11
 http://112.86.202.37:8112/JSBC_iptv/C10000402@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-12
+#EXTINF:-1 group-title="CCTV",CCTV12
 http://112.86.202.37:8112/JSBC_iptv/C10000120@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-13
+#EXTINF:-1 group-title="CCTV",CCTV13
 http://112.86.202.37:8112/JSBC_iptv/C10000232@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-14
+#EXTINF:-1 group-title="CCTV",CCTV14
 http://112.86.202.37:8112/JSBC_iptv/C10000121@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-15
+#EXTINF:-1 group-title="CCTV",CCTV15
 http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-16
+#EXTINF:-1 group-title="CCTV",CCTV16
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
-#EXTINF:-1 group-title="CCTV",CCTV-17
+#EXTINF:-1 group-title="CCTV",CCTV17
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-5+
 http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
@@ -226,4 +226,4 @@ http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b
 #EXTINF:-1 group-title="境外",TVB Plus
 http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 #EXTINF:-1 group-title="其他",TEST
-rtsp://112.86.202.37:554/JSBC_iptv/C10000232@JSBC
+rtsp://112.86.202.37:554/JSBC_iptv/C10000235@JSBC
