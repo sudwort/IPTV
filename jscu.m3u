@@ -227,3 +227,7 @@ http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b
 http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 #EXTINF:-1 group-title="其他",TEST
 rtsp://112.86.202.37:554/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 group-title="其他",TEST2
+rtsp://112.86.202.37:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="其他",TEST3
+rtsp://112.86.202.37:554/JSBC_iptv/C10000220@JSBC
