@@ -153,15 +153,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
-#EXTINF:-1 tvg-name="上海哈哈炫动" group-title="少儿",上海哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="少儿",哈哈炫动
 http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="少儿",北京卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿",卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
-#EXTINF:-1 tvg-name="广东嘉佳卡通" group-title="少儿",广东嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="少儿",嘉佳卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="少儿",湖南金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿",金鹰卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
-#EXTINF:-1 tvg-name="江苏优漫卡通" group-title="少儿",江苏优漫卡通
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿",优漫卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 #EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏地方频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
