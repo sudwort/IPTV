@@ -191,6 +191,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+#EXTINF:-1 group-title="其他頻道",至臻视界
+http://10.0.0.20:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文台.png",凤凰卫视中文台
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯台.png",凤凰卫视资讯台
@@ -201,23 +203,23 @@ http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="境外",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="澳視澳門" group-title="境外",澳视澳门
+#EXTINF:-1 tvg-name="澳視澳門" group-title="境外频道",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 tvg-name="澳視衛星" group-title="境外",澳视卫星
+#EXTINF:-1 tvg-name="澳視衛星" group-title="境外频道",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="境外",HOY TV
+#EXTINF:-1 group-title="境外频道",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-name="無限新聞台" group-title="境外",无线新闻台
+#EXTINF:-1 tvg-name="無限新聞台" group-title="境外频道",无线新闻台
 http://bxtv.757888.xyz/stream/bxtv/null-1/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-#EXTINF:-1 tvg-name="明珠台" group-title="境外",明珠台
+#EXTINF:-1 tvg-name="明珠台" group-title="境外频道",明珠台
 http://bxtv.757888.xyz/stream/bxtv/null-2/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-#EXTINF:-1 tvg-name="美亞電影台" group-title="境外",美亚电影台
+#EXTINF:-1 tvg-name="美亞電影台" group-title="境外频道",美亚电影台
 http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-#EXTINF:-1 group-title="境外",翡翠台
+#EXTINF:-1 group-title="境外频道",翡翠台
 http://bxtv.757888.xyz/stream/bxtv/null/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-#EXTINF:-1 tvg-name="天映經典頻道" group-title="境外",天映经典频道
+#EXTINF:-1 tvg-name="天映經典頻道" group-title="境外频道",天映经典频道
 http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-#EXTINF:-1 group-title="境外",TVB Plus
+#EXTINF:-1 group-title="境外频道",TVB Plus
 http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 #EXTINF:-1 tvg-name="NewTV海外剧场" group-title="NEWTV",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
