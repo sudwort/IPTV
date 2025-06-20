@@ -42,7 +42,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN.png" group-title="央视频道",CGTN
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CGTN纪录.png" group-title="央视频道",CGTN-纪录
-http://itv.uat.news/TVOD/7114647837765104058/hnbblive/index.m3u8
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="央广购物" group-title="央视频道",CCTV央广购物
 http://ott.mobaibox.com/PLTV/3/224/3221228210/index.m3u8
 #EXTINF:-1 tvg-name="兵器科技" group-title="央视频道",CCTV兵器科技
@@ -83,8 +83,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
-#EXTINF:-1 tvg-name="4K UHD" group-title="卫视频道",4K UHD
-http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="4K UHD" group-title="卫视频道",纯享4K
+http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
@@ -191,12 +191,34 @@ http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1 group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png",凤凰卫视香港
-http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
-#EXTINF:-1 group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png",凤凰卫视中文
+#EXTINF:-1 tvg-name="鳳凰衛視中文台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文台.png",凤凰卫视中文台
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png",凤凰卫视资讯
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯台.png",凤凰卫视资讯台
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港台.png",凤凰卫视香港台
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+#EXTINF:-1 group-title="境外",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="境外",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="澳視澳門" group-title="境外",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 tvg-name="澳視衛星" group-title="境外",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="境外",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-name="無限新聞台" group-title="境外",无线新闻台
+http://bxtv.757888.xyz/stream/bxtv/null-1/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="明珠台" group-title="境外",明珠台
+http://bxtv.757888.xyz/stream/bxtv/null-2/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="美亞電影台" group-title="境外",美亚电影台
+http://bxtv.757888.xyz/stream/bxtv/null-3/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",翡翠台
+http://bxtv.757888.xyz/stream/bxtv/null/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="天映經典頻道" group-title="境外",天映经典频道
+http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",TVB Plus
+http://bxtv.757888.xyz/stream/bxtv/tvbplus/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 #EXTINF:-1 tvg-name="NewTV海外剧场" group-title="NEWTV",NewTV海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
 #EXTINF:-1 tvg-name="NewTV中国功夫" group-title="NEWTV",NewTV中国功夫
