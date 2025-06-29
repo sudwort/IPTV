@@ -80,7 +80,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 #EXTINF:-1 tvg-name="早期教育" tvg-logo="https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/CETV早期教育.png" group-title="央视频道",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
+http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
 #EXTINF:-1 tvg-name="4K UHD" group-title="卫视频道",纯享4K
