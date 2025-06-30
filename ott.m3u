@@ -119,8 +119,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
@@ -153,19 +151,19 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏地方频道",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-name="江苏公共新闻" group-title="江苏地方频道",江苏公共新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-name="江苏城市" group-title="江苏地方频道",江苏城市
+#EXTINF:-1 tvg-name="江苏城市" group-title="江苏频道",江苏城市
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-name="江苏影视" group-title="江苏地方频道",江苏影视
+#EXTINF:-1 tvg-name="江苏影视" group-title="江苏频道",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
-#EXTINF:-1 tvg-name="江苏教育" group-title="江苏地方频道",江苏教育
+#EXTINF:-1 tvg-name="江苏教育" group-title="江苏频道",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1 tvg-name="江苏综艺" group-title="江苏地方频道",江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" group-title="江苏频道",江苏综艺
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-name="江苏好享购物" group-title="江苏地方频道",江苏好享购物
+#EXTINF:-1 tvg-name="江苏好享购物" group-title="江苏频道",江苏好享购物
 http://ott.mobaibox.com/PLTV/3/224/3221227570/index.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/dxdragon/IPTV/main/logo/南通新闻综合.png" group-title="江苏地方频道",南通新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
@@ -195,8 +193,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221225555/1.m3u8
 #EXTINF:-1 group-title="其他频道",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
-#EXTINF:-1 group-title="其他频道",至臻视界
-http://10.0.0.20:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文台.png",凤凰卫视中文台
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="境外频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯台.png",凤凰卫视资讯台
