@@ -24,7 +24,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://ott.mobaibox.com/PLTV/3/224/3221228324/index.m3u8
+rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv13_CR
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
@@ -151,6 +151,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
+http://ott.mobaibox.com/PLTV/1/224/3221228626/1.m3u8
 #EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-name="江苏公共新闻" group-title="江苏地方频道",江苏公共新闻
@@ -189,6 +191,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221227598/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227630/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" group-title="其他频道",优漫卡通
 http://ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8
+
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道",北京纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+
+
 #EXTINF:-1 group-title="其他频道",黑莓动画
 http://ott.mobaibox.com/PLTV/1/224/3221225555/1.m3u8
 #EXTINF:-1 group-title="其他频道",黑莓电影
