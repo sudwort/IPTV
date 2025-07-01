@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://10.0.0.20:10000/t.xml"
+ƒ#EXTM3U x-tvg-url="http://10.0.0.20:10000/t.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
@@ -161,6 +161,8 @@ http://ott.mobaibox.com/PLTV/1/224/3221228626/1.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221227648/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" group-title="卫视频道",康巴卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227645/index.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="江苏体育休闲" group-title="江苏频道",江苏体育休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-name="江苏公共新闻" group-title="江苏频道",江苏公共新闻
