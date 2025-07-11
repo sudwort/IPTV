@@ -41,13 +41,17 @@ http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
 https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CCTV",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-西班牙语
+http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-法语
+http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
-#EXTINF:-1 group-title="卫视",北京卫视4k
+#EXTINF:-1 group-title="卫视",北京卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
-#EXTINF:-1 group-title="卫视",广东卫视4k
+#EXTINF:-1 group-title="卫视",广东卫视4K
 http://122.97.211.133:8112/JSBC_iptv/C10000437@JSBC
-#EXTINF:-1 group-title="卫视",深圳卫视4k
+#EXTINF:-1 group-title="卫视",深圳卫视4K
 http://122.97.211.133:8112/JSBC_iptv/C10000439@JSBC
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
@@ -102,7 +106,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
 #EXTINF:-1 group-title="卫视",云南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC#
 #EXTINF:-1 group-title="卫视",山西卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000094@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000447@JSBC
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000163@JSBC
 #EXTINF:-1 group-title="卫视",新疆卫视
