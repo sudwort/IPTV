@@ -219,7 +219,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 group-title="境外",澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="境外",HOY TV
+#EXTINF:-1 group-title="境外",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="境外",无线新闻台
 http://bxtv.757888.xyz/stream/bxtv/null-1/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
