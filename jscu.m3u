@@ -42,9 +42,9 @@ https://rthktv35-live.akamaized.net:443/hls/live/2101643/RTHKTV35/stream05/strea
 #EXTINF:-1 group-title="CCTV",CGTN-俄语
 http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN-西班牙语
-http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000448@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN-法语
-http://112.86.202.37:8112/JSBC_iptv/C10000449@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000449@JSBC
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
 #EXTINF:-1 group-title="卫视",北京卫视4K
@@ -106,7 +106,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
 #EXTINF:-1 group-title="卫视",云南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC#
 #EXTINF:-1 group-title="卫视",山西卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000447@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000447@JSBC
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000163@JSBC
 #EXTINF:-1 group-title="卫视",新疆卫视
