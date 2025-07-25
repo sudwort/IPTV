@@ -108,9 +108,9 @@ http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
 #EXTINF:-1 group-title="卫视",山西卫视
 http://122.97.211.133:8112/JSBC_iptv/C10000447@JSBC
 #EXTINF:-1 group-title="卫视",宁夏卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000453@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000453@JSBC
 #EXTINF:-1 group-title="卫视",新疆卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000451@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000451@JSBC
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
 #EXTINF:-1 group-title="卫视",陕西卫视
@@ -118,11 +118,11 @@ http://112.86.202.37:8112/JSBC_iptv/C10000177@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000427@JSBC
 #EXTINF:-1 group-title="卫视",兵团卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000452@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000452@JSBC
 #EXTINF:-1 group-title="卫视",山东教育卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 group-title="卫视",西藏卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000450@JSBC
+http://122.97.211.133:8112/JSBC_iptv/C10000450@JSBC
 #EXTINF:-1 group-title="地方台",江苏城市
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
 #EXTINF:-1 group-title="地方台",江苏综艺
