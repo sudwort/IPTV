@@ -143,12 +143,6 @@ http://122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
 http://122.97.211.133:8112/JSBC_iptv/C10000412@JSBC
 #EXTINF:-1 group-title="地方台",南通公共
 http://122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
-#EXTINF:-1 group-title="地方台",上海新闻综合
-http://10.0.0.20:35455/mgtv/651632657.m3u8
-#EXTINF:-1 group-title="地方台",上海东方影视
-http://10.0.0.20:35455/mgtv/617290047.m3u8
-#EXTINF:-1 group-title="其他",至臻视界4K
-http://10.0.0.20:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="其他",CETV1
 http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
 #EXTINF:-1 group-title="其他",CETV2
