@@ -1,14 +1,24 @@
 ƒ#EXTM3U x-tvg-url="http://10.0.0.20:10000/t.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
+http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2
+http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3
+http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4
+http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv5_CR
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6
 http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7
@@ -25,16 +35,22 @@ http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv13_CR
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 rtsp://ott.mobaibox.com/000000400000001/HD_8000k_1080P_cctv16_CR
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv05plus_CR
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
+http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
@@ -81,6 +97,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227028/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_jiangsustv_CR
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视"  group-title="卫视频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视4K
@@ -93,10 +111,20 @@ http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_zhejiangstv_CR
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ott.mobaibox.com/PLTV/*/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_hunanstv_CR
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://ott.mobaibox.com/PLTV/*/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
+rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_dongfangstv_CR
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://ott.mobaibox.com/PLTV/*/224/3221227511/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_beijingstv_CR
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://ott.mobaibox.com/PLTV/*/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
@@ -105,8 +133,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_dongfangstv_CR
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -261,3 +287,4 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
