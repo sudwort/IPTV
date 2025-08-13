@@ -245,6 +245,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="境外频道",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="境外频道",无线新闻
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 group-title="境外频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="澳视澳门" group-title="境外频道",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 tvg-name="澳视卫星" group-title="境外频道",澳视卫星
@@ -287,4 +291,5 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
 
