@@ -1,75 +1,223 @@
-#EXTM3U
-#EXTINF:-1,CCTV1
-http://122.96.52.60:8080/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-#EXTINF:-1,CCTV2
-http://122.96.52.60:8080/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
-#EXTINF:-1,CCTV3
-http://122.96.52.60:8080/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
-#EXTINF:-1,CCTV4
-http://122.96.52.60:8080/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
-#EXTINF:-1,CCTV5
-http://122.96.52.60:8080/gitv_live/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
-#EXTINF:-1,CCTV5+
-http://122.96.52.60:8080/gitv_live/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
-#EXTINF:-1,CCTV6
-http://122.96.52.60:8080/gitv_live/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8
-#EXTINF:-1,CCTV7
-http://122.96.52.60:8080/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
-#EXTINF:-1,CCTV8
-http://122.96.52.60:8080/gitv_live/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8
-#EXTINF:-1,CCTV9
-http://122.96.52.60:8080/gitv_live/G_CCTV-9-HQ/G_CCTV-9-HQ.m3u8
-#EXTINF:-1,CCTV10
-http://122.96.52.60:8080/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
-#EXTINF:-1,CCTV11
-http://122.96.52.60:8080/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-#EXTINF:-1,CCTV12
-http://122.96.52.60:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-#EXTINF:-1,CCTV13
-http://122.96.52.60:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
-#EXTINF:-1,CCTV14
-http://122.96.52.60:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-#EXTINF:-1,CCTV15
-http://122.96.52.60:8080/gitv_live/G_CCTV-15-HQ/G_CCTV-15-HQ.m3u8
-#EXTINF:-1,CCTV16
-http://122.96.52.60:8080/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-#EXTINF:-1,CCTV17
-http://122.96.52.60:8080/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
-#EXTINF:-1,CGTN
-http://122.96.52.60:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-#EXTINF:-1,湖南卫视
-http://122.96.52.60:8080/gitv_live/G_HUNAN-CQ/G_HUNAN-CQ.m3u8
-#EXTINF:-1,江苏卫视
-http://122.96.52.60:8080/gitv_live/G_JIANGSU-CQ/G_JIANGSU-CQ.m3u8
-#EXTINF:-1,北京卫视
-http://122.96.52.60:8080/gitv_live/G_BEIJING-CQ/G_BEIJING-CQ.m3u8
-#EXTINF:-1,天津卫视
-http://122.96.52.60:8080/gitv_live/G_TIANJIN-CQ/G_TIANJIN-CQ.m3u8
-#EXTINF:-1,浙江卫视
-http://122.96.52.60:8080/gitv_live/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ.m3u8
-#EXTINF:-1,东方卫视
-http://122.96.52.60:8080/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8
-#EXTINF:-1,深圳卫视
-http://122.96.52.60:8080/gitv_live/G_SHENZHEN-CQ/G_SHENZHEN-CQ.m3u8
-#EXTINF:-1,安徽卫视
-http://122.96.52.60:8080/gitv_live/G_ANHUI-CQ/G_ANHUI-CQ.m3u8
-#EXTINF:-1,山东卫视
-http://122.96.52.60:8080/gitv_live/G_SHANDONG-CQ/G_SHANDONG-CQ.m3u8
-#EXTINF:-1,广东卫视
-http://122.96.52.60:8080/gitv_live/G_GUANGDONG-CQ/G_GUANGDONG-CQ.m3u8
-#EXTINF:-1,河北卫视
-http://122.96.52.60:8080/gitv_live/G_HEBEI-CQ/G_HEBEI-CQ.m3u8
-#EXTINF:-1,湖北卫视
-http://122.96.52.60:8080/gitv_live/G_HUBEI-CQ/G_HUBEI-CQ.m3u8
-#EXTINF:-1,重庆卫视
-http://122.96.52.60:8080/gitv_live/G_CHONGQING-CQ/G_CHONGQING-CQ.m3u8
-#EXTINF:-1,黑龙江卫视
-http://122.96.52.60:8080/gitv_live/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8
-#EXTINF:-1,河南卫视
-http://122.96.52.60:8080/gitv_live/G_HENAN-CQ/G_HENAN-CQ.m3u8
-#EXTINF:-1,江西卫视
-http://122.96.52.60:8080/gitv_live/G_JIANGXI-CQ/G_JIANGXI-CQ.m3u8
-#EXTINF:-1,吉林卫视
-http://122.96.52.60:8080/gitv_live/G_JILIN-CQ/G_JILIN-CQ.m3u8
-#EXTINF:-1,CCTV1HD
-rtsp://112.86.202.37:554/JSBC_iptv/C10000037@JSBC
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml+"
+#EXTINF:-1 group-title="CCTV",CCTV1
+http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV2
+http://122.97.211.133:8112/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV3
+http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV4
+http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV5
+http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV6
+http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV7
+http://112.86.202.37:8112/JSBC_iptv/C10000403@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV8
+http://112.86.202.37:8112/JSBC_iptv/C10000223@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV9
+http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV10
+http://112.86.202.37:8112/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV11
+http://112.86.202.37:8112/JSBC_iptv/C10000402@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV12
+http://112.86.202.37:8112/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV13
+http://112.86.202.37:8112/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV14
+http://112.86.202.37:8112/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV15
+http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV16
+http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV17
+http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-5+
+http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN
+http://112.86.202.37:8112/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-俄语
+http://112.86.202.37:8112/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-西班牙语
+http://122.97.211.133:8112/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-法语
+http://122.97.211.133:8112/JSBC_iptv/C10000449@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视4K
+http://112.86.202.37:8112/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 group-title="卫视",广东卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000437@JSBC
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000439@JSBC
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 group-title="卫视",东方卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 group-title="卫视",广东卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 group-title="卫视",山东卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 group-title="卫视",天津卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 group-title="卫视",四川卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 group-title="卫视",江西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 group-title="卫视",东南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 group-title="卫视",河北卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 group-title="卫视",河南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 group-title="卫视",甘肃卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 group-title="卫视",青海卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 group-title="卫视",广西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 group-title="卫视",海南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 group-title="卫视",云南卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 group-title="卫视",山西卫视
+http://122.97.211.133:8112/JSBC_iptv/C10000447@JSBC
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://122.97.211.133:8112/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://122.97.211.133:8112/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://122.97.211.133:8112/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 group-title="卫视",山东教育卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://122.97.211.133:8112/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
+#EXTINF:-1 group-title="卫视",陕西卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000177@JSBC
+#EXTINF:-1 group-title="卫视",厦门卫视
+http://112.86.202.37:8112/JSBC_iptv/C10000427@JSBC
+#EXTINF:-1 group-title="地方台",江苏城市
+http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 group-title="地方台",江苏综艺
+http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="地方台",江苏体育·休闲
+http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 group-title="地方台",江苏影视
+http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="地方台",江苏新闻
+http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 group-title="地方台",好享购物
+http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 group-title="地方台",江苏教育
+http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="地方台",徐州一套
+http://122.97.211.133:8112/JSBC_iptv/C10000145@JSBC
+#EXTINF:-1 group-title="地方台",徐州二套
+http://122.97.211.133:8112/JSBC_iptv/C10000146@JSBC
+#EXTINF:-1 group-title="地方台",徐州三套
+http://122.97.211.133:8112/JSBC_iptv/C10000147@JSBC
+#EXTINF:-1 group-title="地方台",徐州四套
+http://122.97.211.133:8112/JSBC_iptv/C10000148@JSBC
+#EXTINF:-1 group-title="其他",CETV1
+http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 group-title="其他",CETV2
+http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
+#EXTINF:-1 group-title="其他",CETV4
+http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 group-title="其他",中国天气
+http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 group-title="其他",先锋乒羽
+http://112.86.202.37:8112/JSBC_iptv/C10000159@JSBC
+#EXTINF:-1 group-title="其他",快乐垂钓
+http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="其他",金鹰纪实
+http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 group-title="其他",金鹰卡通
+http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 group-title="其他",优漫卡通
+http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="其他",梨园频道
+http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 group-title="其他",武术世界
+http://112.86.202.37:8112/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 group-title="其他",文物宝库
+http://112.86.202.37:8112/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 group-title="其他",东方财经
+http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",法治天地
+http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 group-title="其他",生活时尚
+http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 group-title="其他",都市剧场
+http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
+#EXTINF:-1 group-title="其他",睛彩青少
+http://112.86.202.37:8112/JSBC_iptv/C10000428@JSBC
+#EXTINF:-1 group-title="其他",睛彩广场舞
+http://112.86.202.37:8112/JSBC_iptv/C10000429@JSBC
+#EXTINF:-1 group-title="其他",睛彩篮球
+http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 group-title="其他",睛彩竞技
+http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 group-title="其他",重温经典
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+http://bxtv.757888.xyz/stream/bxtv/null-5/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",凤凰卫视资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="境外",凤凰卫视资讯台
+http://bxtv.757888.xyz/stream/bxtv/null-6/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",凤凰卫视香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="境外",凤凰卫视香港台
+http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="境外",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 group-title="境外",澳视澳门
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="境外",澳视卫星
+http://php.jdshipin.com/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="境外",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="境外",TVB无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="境外",翡翠台
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+#EXTINF:-1 group-title="境外",明珠台
+http://php.jdshipin.com:8880/iptv.php?id=mzt
+#EXTINF:-1 group-title="境外",测试
+http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
