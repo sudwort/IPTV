@@ -1,0 +1,189 @@
+#EXTM3U x-tvg-url="http://10.0.0.20:10000/t.xml"
+#EXTINF:-1 group-title="CCTV",CCTV1
+rtsp://122.97.211.133:554/JSBC_iptv/C10000037@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV2
+rtsp://122.97.211.133:554/JSBC_iptv/C10000038@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV3
+rtsp://122.97.211.133:554/JSBC_iptv/C10000220@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV4
+rtsp://122.97.211.133:554/JSBC_iptv/C10000039@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV5
+rtsp://122.97.211.133:554/JSBC_iptv/C10000221@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV6
+rtsp://122.97.211.133:554/JSBC_iptv/C10000222@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV7
+rtsp://122.97.211.133:554/JSBC_iptv/C10000403@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV8
+rtsp://122.97.211.133:554/JSBC_iptv/C10000223@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV9
+rtsp://122.97.211.133:554/JSBC_iptv/C10000042@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV10
+rtsp://122.97.211.133:554/JSBC_iptv/C10000119@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV11
+rtsp://122.97.211.133:554/JSBC_iptv/C10000402@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV12
+rtsp://122.97.211.133:554/JSBC_iptv/C10000120@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV13
+rtsp://122.97.211.133:554/JSBC_iptv/C10000232@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV14
+rtsp://122.97.211.133:554/JSBC_iptv/C10000121@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV15
+rtsp://122.97.211.133:554/JSBC_iptv/C10000404@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV16
+rtsp://122.97.211.133:554/JSBC_iptv/C10000193@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV17
+rtsp://122.97.211.133:554/JSBC_iptv/C10000041@JSBC
+#EXTINF:-1 group-title="CCTV",CCTV-5+
+rtsp://122.97.211.133:554/JSBC_iptv/C10000040@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN
+rtsp://122.97.211.133:554/JSBC_iptv/C10000021@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-俄语
+rtsp://122.97.211.133:554/JSBC_iptv/C10000233@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-西班牙语
+rtsp://122.97.211.133:554/JSBC_iptv/C10000448@JSBC
+#EXTINF:-1 group-title="CCTV",CGTN-法语
+rtsp://122.97.211.133:554/JSBC_iptv/C10000449@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000015@JSBC
+#EXTINF:-1 group-title="卫视",江苏卫视4K
+rtsp://122.97.211.133:554/JSBC_iptv/C10000455@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视4K
+rtsp://122.97.211.133:554/JSBC_iptv/C10000435@JSBC
+#EXTINF:-1 group-title="卫视",广东卫视4K
+rtsp://122.97.211.133:554/JSBC_iptv/C10000437@JSBC
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+rtsp://122.97.211.133:554/JSBC_iptv/C10000439@JSBC
+#EXTINF:-1 group-title="卫视",湖南卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000043@JSBC
+#EXTINF:-1 group-title="卫视",浙江卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000044@JSBC
+#EXTINF:-1 group-title="卫视",东方卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000045@JSBC
+#EXTINF:-1 group-title="卫视",北京卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000046@JSBC
+#EXTINF:-1 group-title="卫视",广东卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000047@JSBC
+#EXTINF:-1 group-title="卫视",深圳卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000048@JSBC
+#EXTINF:-1 group-title="卫视",山东卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000049@JSBC
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000050@JSBC
+#EXTINF:-1 group-title="卫视",湖北卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000051@JSBC
+#EXTINF:-1 group-title="卫视",天津卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000052@JSBC
+#EXTINF:-1 group-title="卫视",重庆卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000053@JSBC
+#EXTINF:-1 group-title="卫视",辽宁卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000141@JSBC
+#EXTINF:-1 group-title="卫视",四川卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000167@JSBC
+#EXTINF:-1 group-title="卫视",江西卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000168@JSBC
+#EXTINF:-1 group-title="卫视",东南卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000169@JSBC
+#EXTINF:-1 group-title="卫视",吉林卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000170@JSBC
+#EXTINF:-1 group-title="卫视",贵州卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000171@JSBC
+#EXTINF:-1 group-title="卫视",河北卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000172@JSBC
+#EXTINF:-1 group-title="卫视",河南卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000185@JSBC
+#EXTINF:-1 group-title="卫视",甘肃卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000407@JSBC
+#EXTINF:-1 group-title="卫视",青海卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000408@JSBC
+#EXTINF:-1 group-title="卫视",三沙卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000410@JSBC
+#EXTINF:-1 group-title="卫视",安徽卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000192@JSBC
+#EXTINF:-1 group-title="卫视",广西卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000198@JSBC
+#EXTINF:-1 group-title="卫视",海南卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000200@JSBC
+#EXTINF:-1 group-title="卫视",云南卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000202@JSBC
+#EXTINF:-1 group-title="卫视",山西卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000447@JSBC
+#EXTINF:-1 group-title="卫视",宁夏卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000453@JSBC
+#EXTINF:-1 group-title="卫视",新疆卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000451@JSBC
+#EXTINF:-1 group-title="卫视",兵团卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000452@JSBC
+#EXTINF:-1 group-title="卫视",山东教育卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000434@JSBC
+#EXTINF:-1 group-title="卫视",西藏卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000450@JSBC
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000166@JSBC
+#EXTINF:-1 group-title="卫视",陕西卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000177@JSBC
+#EXTINF:-1 group-title="卫视",厦门卫视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000427@JSBC
+#EXTINF:-1 group-title="地方台",江苏城市
+rtsp://122.97.211.133:554/JSBC_iptv/C10000224@JSBC
+#EXTINF:-1 group-title="地方台",江苏综艺
+rtsp://122.97.211.133:554/JSBC_iptv/C10000225@JSBC
+#EXTINF:-1 group-title="地方台",江苏体育·休闲
+rtsp://122.97.211.133:554/JSBC_iptv/C10000226@JSBC
+#EXTINF:-1 group-title="地方台",江苏影视
+rtsp://122.97.211.133:554/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="地方台",江苏新闻
+rtsp://122.97.211.133:554/JSBC_iptv/C10000229@JSBC
+#EXTINF:-1 group-title="地方台",好享购物
+rtsp://122.97.211.133:554/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 group-title="地方台",江苏教育
+rtsp://122.97.211.133:554/JSBC_iptv/C10000231@JSBC
+#EXTINF:-1 group-title="地方台",南通新闻综合
+rtsp://122.97.211.133:554/JSBC_iptv/C10000411@JSBC
+#EXTINF:-1 group-title="地方台",南通社教
+rtsp://122.97.211.133:554/JSBC_iptv/C10000412@JSBC
+#EXTINF:-1 group-title="地方台",南通公共
+rtsp://122.97.211.133:554/JSBC_iptv/C10000413@JSBC
+#EXTINF:-1 group-title="其他",CETV1
+rtsp://122.97.211.133:554/JSBC_iptv/C10000173@JSBC
+#EXTINF:-1 group-title="其他",CETV2
+rtsp://122.97.211.133:554/JSBC_iptv/C10000098@JSBC
+#EXTINF:-1 group-title="其他",CETV4
+rtsp://122.97.211.133:554/JSBC_iptv/C10000405@JSBC
+#EXTINF:-1 group-title="其他",中国天气
+rtsp://122.97.211.133:554/JSBC_iptv/C10000419@JSBC
+#EXTINF:-1 group-title="其他",先锋乒羽
+rtsp://122.97.211.133:554/JSBC_iptv/C10000159@JSBC
+#EXTINF:-1 group-title="其他",快乐垂钓
+rtsp://122.97.211.133:554/JSBC_iptv/C10000142@JSBC
+#EXTINF:-1 group-title="其他",金鹰纪实
+rtsp://122.97.211.133:554/JSBC_iptv/C10000187@JSBC
+#EXTINF:-1 group-title="其他",金鹰卡通
+rtsp://122.97.211.133:554/JSBC_iptv/C10000216@JSBC
+#EXTINF:-1 group-title="其他",优漫卡通
+rtsp://122.97.211.133:554/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="其他",梨园频道
+rtsp://122.97.211.133:554/JSBC_iptv/C10000235@JSBC
+#EXTINF:-1 group-title="其他",武术世界
+rtsp://122.97.211.133:554/JSBC_iptv/C10000236@JSBC
+#EXTINF:-1 group-title="其他",文物宝库
+rtsp://122.97.211.133:554/JSBC_iptv/C10000237@JSBC
+#EXTINF:-1 group-title="其他",东方财经
+rtsp://122.97.211.133:554/JSBC_iptv/C10000420@JSBC
+#EXTINF:-1 group-title="其他",法治天地
+rtsp://122.97.211.133:554/JSBC_iptv/C10000422@JSBC
+#EXTINF:-1 group-title="其他",生活时尚
+rtsp://122.97.211.133:554/JSBC_iptv/C10000423@JSBC
+#EXTINF:-1 group-title="其他",都市剧场
+rtsp://122.97.211.133:554/JSBC_iptv/C10000424@JSBC
+#EXTINF:-1 group-title="其他",卡酷少儿
+rtsp://122.97.211.133:554/JSBC_iptv/C10000426@JSBC
+#EXTINF:-1 group-title="其他",睛彩青少
+rtsp://122.97.211.133:554/JSBC_iptv/C10000428@JSBC
+#EXTINF:-1 group-title="其他",睛彩广场舞
+rtsp://122.97.211.133:554/JSBC_iptv/C10000429@JSBC
+#EXTINF:-1 group-title="其他",睛彩篮球
+rtsp://122.97.211.133:554/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 group-title="其他",睛彩竞技
+rtsp://122.97.211.133:554/JSBC_iptv/C10000433@JSBC
+#EXTINF:-1 group-title="其他",跨年直播4K
+rtsp://122.97.211.133:554/JSBC_iptv/C10000143@JSBC
