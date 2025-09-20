@@ -55,6 +55,10 @@ http://122.97.211.133:8112/JSBC_iptv/C10000461@JSBC
 http://122.97.211.133:8112/JSBC_iptv/C10000457@JSBC
 #EXTINF:-1 group-title="卫视",东方卫视4K
 http://122.97.211.133:8112/JSBC_iptv/C10000463@JSBC
+#EXTINF:-1 group-title="卫视",四川卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000459@JSBC
+#EXTINF:-1 group-title="卫视",山东卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000465@JSBC
 #EXTINF:-1 group-title="卫视",广东卫视4K
 http://122.97.211.133:8112/JSBC_iptv/C10000437@JSBC
 #EXTINF:-1 group-title="卫视",深圳卫视4K
