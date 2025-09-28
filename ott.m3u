@@ -99,11 +99,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 rtsp://ott.mobaibox.com/000000400000001/H265_8000k_1080P_jiangsustv_CR
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视"  group-title="卫视频道",北京卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视4K
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
 #EXTINF:-1 tvg-name="4K UHD" group-title="卫视频道",纯享4K
 http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
@@ -217,8 +219,6 @@ http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 group-title="其他频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" group-title="其他频道",哈哈炫动
-http://ott.mobaibox.com/PLTV/3/224/3221227586/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道",卡酷少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道",嘉佳卡通
@@ -291,6 +291,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
 
 
 
