@@ -103,10 +103,20 @@ http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道",广东卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视4K
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视4K
+http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 #EXTINF:-1 tvg-name="4K UHD" group-title="卫视频道",纯享4K
 http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
@@ -291,6 +301,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
 
 
 
