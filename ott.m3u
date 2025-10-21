@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml.gz"
+#EXTM3U x-tvg-url="http://10.0.0.20/t.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
@@ -111,8 +111,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
 #EXTINF:-1 group-title="4K",四川卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
-#EXTINF:-1 tvg-name="4K UHD" group-title="4K",纯享4K
-http://ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" group-title="4K",纯享4K
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 http://ott.mobaibox.com/PLTV/*/224/3221228861/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -299,6 +299,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="NewTV金牌综艺" group-title="NEWTV",NewTV金牌综艺
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+
 
 
 
