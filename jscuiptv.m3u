@@ -153,10 +153,10 @@ http://10.0.0.30:1000/rtp/239.8.1.60:5000
 rtsp://157.0.143.37:554/JSBC_iptv/C100000231@JSBC
 #EXTINF:-1 group-title="地方台",南通社教
 http://10.0.0.30:1000/rtp/239.8.2.43:5000
-#EXTINF:-1 group-title="地方台",南通公共
+#EXTINF:-1 group-title="地方台",南通公共交通
 http://10.0.0.30:1000/rtp/239.8.2.44:5000
 #EXTINF:-1 group-title="其他",CETV1
-http://10.0.0.30:1000/rtp/239.8.1.30:5000
+rtsp://112.86.202.37:554/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="其他",CETV2
 http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
 #EXTINF:-1 group-title="其他",CETV4
