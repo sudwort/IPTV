@@ -38,13 +38,13 @@ http://10.0.0.30:1000/rtp/239.8.1.2:5000
 #EXTINF:-1 group-title="CCTV",CGTN
 rtsp://122.97.211.133:554/JSBC_iptv/C10000021@JSBC
 #EXTINF:-1 group-title="CCTV",CGTN-俄语
-rtsp://122.97.211.133:554/JSBC_iptv/C10000233@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.70:5000
 #EXTINF:-1 group-title="CCTV",CGTN-西班牙语
-rtsp://122.97.211.133:554/JSBC_iptv/C10000448@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.116:5000
 #EXTINF:-1 group-title="CCTV",CGTN-法语
-rtsp://122.97.211.133:554/JSBC_iptv/C10000449@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.117:5000
 #EXTINF:-1 group-title="卫视",江苏卫视
-rtsp://122.97.211.133:554/JSBC_iptv/C10000015@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.3:5000
 #EXTINF:-1 group-title="卫视",江苏卫视4K
 http://10.0.0.30:1000/rtp/239.8.1.110:5000
 #EXTINF:-1 group-title="卫视",北京卫视4K
@@ -53,6 +53,16 @@ http://10.0.0.30:1000/rtp/239.8.1.87:5000
 http://10.0.0.30:1000/rtp/239.8.1.96:5000
 #EXTINF:-1 group-title="卫视",深圳卫视4K
 rtsp://122.97.211.133:554/JSBC_iptv/C10000439@JSBC
+#EXTINF:-1 group-title="卫视",浙江卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.111:5000
+#EXTINF:-1 group-title="卫视",东方卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.114:5000
+#EXTINF:-1 group-title="卫视",湖南卫视卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.113:5000
+#EXTINF:-1 group-title="卫视",四川卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.112:5000
+#EXTINF:-1 group-title="卫视",山东卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.115:5000
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://10.0.0.30:1000/rtp/239.8.1.7:5000
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -106,7 +116,7 @@ http://10.0.0.30:1000/rtp/239.8.1.37:5000
 #EXTINF:-1 group-title="卫视",云南卫视
 http://10.0.0.30:1000/rtp/239.8.1.38:5000
 #EXTINF:-1 group-title="卫视",山西卫视
-rtsp://122.97.211.133:554/JSBC_iptv/C10000447@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.118:5000
 #EXTINF:-1 group-title="卫视",宁夏卫视
 http://10.0.0.30:1000/rtp/239.8.1.105:5000
 #EXTINF:-1 group-title="卫视",新疆卫视
@@ -120,7 +130,7 @@ rtsp://122.97.211.133:554/JSBC_iptv/C10000166@JSBC
 #EXTINF:-1 group-title="卫视",陕西卫视
 rtsp://122.97.211.133:554/JSBC_iptv/C10000177@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
-rtsp://122.97.211.133:554/JSBC_iptv/C10000427@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.93:5000
 #EXTINF:-1 group-title="卫视",山东教育卫视
 http://10.0.0.30:1000/rtp/239.8.1.92:5000
 #EXTINF:-1 group-title="地方台",江苏城市
@@ -135,8 +145,10 @@ http://10.0.0.30:1000/rtp/239.8.1.57:5000
 http://10.0.0.30:1000/rtp/239.8.1.59:5000
 #EXTINF:-1 group-title="地方台",江苏教育
 http://10.0.0.30:1000/rtp/239.8.1.61:5000
+#EXTINF:-1 group-title="地方台",财富天下
+http://10.0.0.30:1000/rtp/239.8.1.119:5000
 #EXTINF:-1 group-title="地方台",好享购物
-rtsp://122.97.211.133:554/JSBC_iptv/C10000230@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.60:5000
 #EXTINF:-1 group-title="地方台",南通新闻综合
 http://10.0.0.30:1000/rtp/239.8.2.42:5000
 #EXTINF:-1 group-title="地方台",南通社教
@@ -144,13 +156,13 @@ http://10.0.0.30:1000/rtp/239.8.2.43:5000
 #EXTINF:-1 group-title="地方台",南通公共
 http://10.0.0.30:1000/rtp/239.8.2.44:5000
 #EXTINF:-1 group-title="其他",CETV1
-rtsp://122.97.211.133:554/JSBC_iptv/C10000173@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.30:5000
 #EXTINF:-1 group-title="其他",CETV2
 rtsp://122.97.211.133:554/JSBC_iptv/C10000098@JSBC
 #EXTINF:-1 group-title="其他",CETV4
-rtsp://122.97.211.133:554/JSBC_iptv/C10000405@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.74:5000
 #EXTINF:-1 group-title="其他",中国天气
-rtsp://122.97.211.133:554/JSBC_iptv/C10000419@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.80:5000
 #EXTINF:-1 group-title="其他",先锋乒羽
 rtsp://122.97.211.133:554/JSBC_iptv/C10000159@JSBC
 #EXTINF:-1 group-title="其他",快乐垂钓
@@ -162,15 +174,15 @@ http://10.0.0.30:1000/rtp/239.8.1.53:5000
 #EXTINF:-1 group-title="其他",优漫卡通
 http://10.0.0.30:1000/rtp/239.8.1.58:5000
 #EXTINF:-1 group-title="其他",梨园频道
-rtsp://122.97.211.133:554/JSBC_iptv/C10000235@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.74:5000
 #EXTINF:-1 group-title="其他",武术世界
 http://10.0.0.30:1000/rtp/239.8.1.68:5000
 #EXTINF:-1 group-title="其他",文物宝库
 http://10.0.0.30:1000/rtp/239.8.1.69:5000
 #EXTINF:-1 group-title="其他",东方财经
-rtsp://122.97.211.133:554/JSBC_iptv/C10000420@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.81:5000
 #EXTINF:-1 group-title="其他",法治天地
-rtsp://122.97.211.133:554/JSBC_iptv/C10000422@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.83:5000
 #EXTINF:-1 group-title="其他",生活时尚
 http://10.0.0.30:1000/rtp/239.8.1.84:5000
 #EXTINF:-1 group-title="其他",都市剧场
@@ -178,12 +190,12 @@ http://10.0.0.30:1000/rtp/239.8.1.85:5000
 #EXTINF:-1 group-title="其他",卡酷少儿
 http://10.0.0.30:1000/rtp/239.8.1.88:5000
 #EXTINF:-1 group-title="其他",睛彩青少
-rtsp://122.97.211.133:554/JSBC_iptv/C10000428@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.89:5000
 #EXTINF:-1 group-title="其他",睛彩广场舞
-rtsp://122.97.211.133:554/JSBC_iptv/C10000429@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.91:5000
 #EXTINF:-1 group-title="其他",睛彩篮球
-rtsp://122.97.211.133:554/JSBC_iptv/C10000431@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.90:5000
 #EXTINF:-1 group-title="其他",睛彩竞技
-rtsp://122.97.211.133:554/JSBC_iptv/C10000433@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.95:5000
 #EXTINF:-1 group-title="其他",跨年直播4K
-rtsp://122.97.211.133:554/JSBC_iptv/C10000143@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.251:5000
