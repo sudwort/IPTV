@@ -57,7 +57,7 @@ http://122.97.211.133:8112/JSBC_iptv/C10000439@JSBC
 http://10.0.0.30:1000/rtp/239.8.1.111:5000
 #EXTINF:-1 group-title="卫视",东方卫视4K
 http://10.0.0.30:1000/rtp/239.8.1.114:5000
-#EXTINF:-1 group-title="卫视",湖南卫视卫视4K
+#EXTINF:-1 group-title="卫视",湖南卫视4K
 http://10.0.0.30:1000/rtp/239.8.1.113:5000
 #EXTINF:-1 group-title="卫视",四川卫视4K
 http://10.0.0.30:1000/rtp/239.8.1.112:5000
@@ -150,7 +150,7 @@ http://10.0.0.30:1000/rtp/239.8.1.119:5000
 #EXTINF:-1 group-title="地方台",好享购物
 http://10.0.0.30:1000/rtp/239.8.1.60:5000
 #EXTINF:-1 group-title="地方台",南通新闻综合
-http://10.0.0.30:1000/rtp/239.8.2.42:5000
+rtsp://157.0.143.37:554/JSBC_iptv/C100000231@JSBC
 #EXTINF:-1 group-title="地方台",南通社教
 http://10.0.0.30:1000/rtp/239.8.2.43:5000
 #EXTINF:-1 group-title="地方台",南通公共
