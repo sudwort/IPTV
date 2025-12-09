@@ -166,7 +166,7 @@ http://10.0.0.30:1000/rtp/239.8.1.80:5000
 #EXTINF:-1 group-title="其他",先锋乒羽
 http://112.86.202.37:8112/JSBC_iptv/C10000159@JSBC
 #EXTINF:-1 group-title="其他",快乐垂钓
-http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
+http://10.0.0.30:1000/rtp/239.8.1.83:5000
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://10.0.0.30:1000/rtp/239.8.1.35:5000
 #EXTINF:-1 group-title="其他",金鹰卡通
