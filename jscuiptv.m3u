@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/index.php"
+#EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml.gz"
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://10.0.0.30:1000/rtp/239.8.1.1:5000
 #EXTINF:-1 group-title="CCTV",CCTV2
