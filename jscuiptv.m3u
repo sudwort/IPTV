@@ -43,26 +43,28 @@ http://10.0.0.30:1000/rtp/239.8.1.70:5000
 http://10.0.0.30:1000/rtp/239.8.1.116:5000
 #EXTINF:-1 group-title="CCTV",CGTN-法语
 http://10.0.0.30:1000/rtp/239.8.1.117:5000
+#EXTINF:-1 group-title="4K",江苏卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.110:5000
+#EXTINF:-1 group-title="4K",北京卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.87:5000
+#EXTINF:-1 group-title="4K",广东卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000437@JSBC
+#EXTINF:-1 group-title="4K",深圳卫视4K
+http://122.97.211.133:8112/JSBC_iptv/C10000439@JSBC
+#EXTINF:-1 group-title="4K",浙江卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.111:5000
+#EXTINF:-1 group-title="4K",东方卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.114:5000
+#EXTINF:-1 group-title="4K",湖南卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.113:5000
+#EXTINF:-1 group-title="4K",四川卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.112:5000
+#EXTINF:-1 group-title="4K",山东卫视4K
+http://10.0.0.30:1000/rtp/239.8.1.115:5000
+#EXTINF:-1 group-title="4K",跨年直播4K
+http://10.0.0.30:1000/rtp/239.8.1.251:5000
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://10.0.0.30:1000/rtp/239.8.1.3:5000
-#EXTINF:-1 group-title="卫视",江苏卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.110:5000
-#EXTINF:-1 group-title="卫视",北京卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.87:5000
-#EXTINF:-1 group-title="卫视",广东卫视4K
-http://122.97.211.133:8112/JSBC_iptv/C10000437@JSBC
-#EXTINF:-1 group-title="卫视",深圳卫视4K
-http://122.97.211.133:8112/JSBC_iptv/C10000439@JSBC
-#EXTINF:-1 group-title="卫视",浙江卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.111:5000
-#EXTINF:-1 group-title="卫视",东方卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.114:5000
-#EXTINF:-1 group-title="卫视",湖南卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.113:5000
-#EXTINF:-1 group-title="卫视",四川卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.112:5000
-#EXTINF:-1 group-title="卫视",山东卫视4K
-http://10.0.0.30:1000/rtp/239.8.1.115:5000
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://10.0.0.30:1000/rtp/239.8.1.7:5000
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -133,27 +135,27 @@ http://10.0.0.30:1000/rtp/239.8.0.80:5000
 http://10.0.0.30:1000/rtp/239.8.1.93:5000
 #EXTINF:-1 group-title="卫视",山东教育卫视
 http://10.0.0.30:1000/rtp/239.8.1.92:5000
-#EXTINF:-1 group-title="地方台",江苏城市
+#EXTINF:-1 group-title="江苏",江苏城市
 http://10.0.0.30:1000/rtp/239.8.1.54:5000
-#EXTINF:-1 group-title="地方台",江苏综艺
+#EXTINF:-1 group-title="江苏",江苏综艺
  http://10.0.0.30:1000/rtp/239.8.1.55:5000
-#EXTINF:-1 group-title="地方台",江苏体育休闲
+#EXTINF:-1 group-title="江苏",江苏体育休闲
 http://10.0.0.30:1000/rtp/239.8.1.56:5000
-#EXTINF:-1 group-title="地方台",江苏影视
+#EXTINF:-1 group-title="江苏",江苏影视
 http://10.0.0.30:1000/rtp/239.8.1.57:5000
-#EXTINF:-1 group-title="地方台",江苏新闻
+#EXTINF:-1 group-title="江苏",江苏新闻
 http://10.0.0.30:1000/rtp/239.8.1.59:5000
-#EXTINF:-1 group-title="地方台",江苏教育
+#EXTINF:-1 group-title="江苏",江苏教育
 http://10.0.0.30:1000/rtp/239.8.1.61:5000
-#EXTINF:-1 group-title="地方台",财富天下
+#EXTINF:-1 group-title="江苏",财富天下
 http://10.0.0.30:1000/rtp/239.8.1.119:5000
-#EXTINF:-1 group-title="地方台",好享购物
+#EXTINF:-1 group-title="江苏",好享购物
 http://10.0.0.30:1000/rtp/239.8.1.60:5000
-#EXTINF:-1 group-title="地方台",南通新闻综合
+#EXTINF:-1 group-title="江苏",南通新闻综合
 rtsp://157.0.143.37:554/JSBC_iptv/C100000231@JSBC
-#EXTINF:-1 group-title="地方台",南通社教
+#EXTINF:-1 group-title="江苏",南通社教
 http://10.0.0.30:1000/rtp/239.8.2.43:5000
-#EXTINF:-1 group-title="地方台",南通公共交通
+#EXTINF:-1 group-title="江苏",南通公共
 http://10.0.0.30:1000/rtp/239.8.2.44:5000
 #EXTINF:-1 group-title="其他",CETV1
 http://10.0.0.30:1000/rtp/239.8.1.30:5000
@@ -199,5 +201,4 @@ http://10.0.0.30:1000/rtp/239.8.1.91:5000
 http://10.0.0.30:1000/rtp/239.8.1.90:5000
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://10.0.0.30:1000/rtp/239.8.1.95:5000
-#EXTINF:-1 group-title="其他",跨年直播4K
-http://10.0.0.30:1000/rtp/239.8.1.251:5000
+
