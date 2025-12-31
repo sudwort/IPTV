@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml+"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV2
@@ -163,8 +163,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 #EXTINF:-1 group-title="其他",中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
-#EXTINF:-1 group-title="其他",先锋乒羽
-http://112.86.202.37:8112/JSBC_iptv/C10000159@JSBC
+#EXTINF:-1 group-title="其他",财富天下
+http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://112.86.202.37:8112/JSBC_iptv/C10000142@JSBC
 #EXTINF:-1 group-title="其他",金鹰纪实
@@ -229,8 +229,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 #EXTINF:-1 group-title="境外",明珠台
 http://php.jdshipin.com:8880/iptv.php?id=mzt
-#EXTINF:-1 group-title="境外",测试
-http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
+
 
 
 
