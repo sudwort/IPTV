@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/51zmte1.xml.gz"
 #EXTINF:-1 group-title="CCTV",CCTV-1
 http://10.0.0.30:1000/rtp/239.8.1.1:5000
 #EXTINF:-1 group-title="CCTV",CCTV-2
@@ -161,11 +161,11 @@ http://10.0.0.30:1000/rtp/239.8.2.43:5000
 #EXTINF:-1 group-title="江苏",南通公共
 http://122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
 http://10.0.0.30:1000/rtp/239.8.2.44:5000
-#EXTINF:-1 group-title="其他",CETV1
+#EXTINF:-1 group-title="其他",CETV-1
 http://10.0.0.30:1000/rtp/239.8.1.30:5000
-#EXTINF:-1 group-title="其他",CETV2
+#EXTINF:-1 group-title="其他",CETV-2
 http://10.0.0.30:1000/rtp/239.8.0.57:5000
-#EXTINF:-1 group-title="其他",CETV4
+#EXTINF:-1 group-title="其他",CETV-4
 http://10.0.0.30:1000/rtp/239.8.1.74:5000
 #EXTINF:-1 group-title="其他",中国天气
 http://10.0.0.30:1000/rtp/239.8.1.80:5000
@@ -203,4 +203,17 @@ http://10.0.0.30:1000/rtp/239.8.1.91:5000
 http://10.0.0.30:1000/rtp/239.8.1.90:5000
 #EXTINF:-1 group-title="其他",睛彩竞技
 http://10.0.0.30:1000/rtp/239.8.1.95:5000
-
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="境外",凤凰卫视中文台
+http://bxtv.757888.xyz/stream/bxtv/null-5/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",凤凰卫视资讯台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="境外",凤凰卫视资讯台
+http://bxtv.757888.xyz/stream/bxtv/null-6/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 group-title="境外",凤凰卫视香港台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="境外",凤凰卫视香港台
+http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
