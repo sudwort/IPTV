@@ -63,7 +63,7 @@ http://10.0.0.20:5140/rtp/239.8.1.113:5000
 http://10.0.0.20:5140/rtp/239.8.1.112:5000
 #EXTINF:-1 group-title="4K",山东卫视4K
 http://10.0.0.20:5140/rtp/239.8.1.115:5000
-#EXTINF:-1 group-title="4K",跨年直播4K
+#EXTINF:-1 group-title="4K",测试4K
 http://10.0.0.20:5140/rtp/239.8.1.251:5000
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://10.0.0.20:5140/rtp/239.8.1.3:5000
@@ -149,6 +149,8 @@ http://10.0.0.20:5140/rtp/239.8.1.57:5000
 http://10.0.0.20:5140/rtp/239.8.1.59:5000
 #EXTINF:-1 group-title="江苏",江苏教育
 http://10.0.0.20:5140/rtp/239.8.1.61:5000
+#EXTINF:-1 group-title="江苏",江苏国际
+http://122.97.211.133:8112/JSBC_iptv/C10000470@JSBC
 #EXTINF:-1 group-title="江苏",财富天下
 http://10.0.0.20:5140/rtp/239.8.1.119:5000
 #EXTINF:-1 group-title="江苏",好享购物
@@ -185,6 +187,8 @@ http://10.0.0.20:5140/rtp/239.8.1.67:5000
 http://10.0.0.20:5140/rtp/239.8.1.68:5000
 #EXTINF:-1 group-title="其他",文物宝库
 http://10.0.0.20:5140/rtp/239.8.1.69:5000
+#EXTINF:-1 group-title="其他",中学生
+http://122.97.211.133:8112/JSBC_iptv/C10000471@JSBC
 #EXTINF:-1 group-title="其他",东方财经
 http://10.0.0.20:5140/rtp/239.8.1.81:5000
 #EXTINF:-1 group-title="其他",法治天地
