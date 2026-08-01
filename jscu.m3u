@@ -128,9 +128,9 @@ http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 group-title="卫视",西藏卫视
 http://122.97.211.133:8112/JSBC_iptv/C10000450@JSBC
 #EXTINF:-1 group-title="卫视",内蒙古卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000166@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000469@JSBC
 #EXTINF:-1 group-title="卫视",陕西卫视
-http://112.86.202.37:8112/JSBC_iptv/C10000177@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000468@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000427@JSBC
 #EXTINF:-1 group-title="地方台",江苏城市
@@ -141,6 +141,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
 #EXTINF:-1 group-title="地方台",江苏影视
 http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
+#EXTINF:-1 group-title="地方台",财富天下
+http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
 #EXTINF:-1 group-title="地方台",江苏新闻
 http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 #EXTINF:-1 group-title="地方台",好享购物
