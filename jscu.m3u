@@ -133,33 +133,33 @@ http://122.97.211.133:8112/JSBC_iptv/C10000452@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000434@JSBC
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000427@JSBC
-#EXTINF:-1 group-title="地方台",江苏城市
+#EXTINF:-1 group-title="江苏",江苏城市
 http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
-#EXTINF:-1 group-title="地方台",江苏综艺
+#EXTINF:-1 group-title="江苏",江苏综艺
 http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
-#EXTINF:-1 group-title="地方台",江苏体育·休闲
+#EXTINF:-1 group-title="江苏",江苏体育·休闲
 http://112.86.202.37:8112/JSBC_iptv/C10000226@JSBC
-#EXTINF:-1 group-title="地方台",江苏影视
+#EXTINF:-1 group-title="江苏",江苏影视
 http://112.86.202.37:8112/JSBC_iptv/C10000227@JSBC
-#EXTINF:-1 group-title="地方台",财富天下
+#EXTINF:-1 group-title="江苏",财富天下
 http://112.86.202.37:8112/JSBC_iptv/C10000467@JSBC
-#EXTINF:-1 group-title="地方台",江苏新闻
+#EXTINF:-1 group-title="江苏",江苏新闻
 http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
-#EXTINF:-1 group-title="地方台",好享购物
-http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
-#EXTINF:-1 group-title="地方台",江苏教育
+#EXTINF:-1 group-title="江苏",江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
-#EXTINF:-1 group-title="地方台",南通新闻综合
+#EXTINF:-1 group-title="江苏",好享购物
+http://112.86.202.37:8112/JSBC_iptv/C10000230@JSBC
+#EXTINF:-1 group-title="江苏",南通新闻综合
 http://122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
-#EXTINF:-1 group-title="地方台",南通社教
+#EXTINF:-1 group-title="江苏",南通社教
 http://122.97.211.133:8112/JSBC_iptv/C10000412@JSBC
-#EXTINF:-1 group-title="地方台",南通公共
+#EXTINF:-1 group-title="江苏",南通公共
 http://122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
-#EXTINF:-1 group-title="其他",CETV1
+#EXTINF:-1 group-title="其他",CETV-1
 http://112.86.202.37:8112/JSBC_iptv/C10000173@JSBC
-#EXTINF:-1 group-title="其他",CETV2
+#EXTINF:-1 group-title="其他",CETV-2
 http://112.86.202.37:8112/JSBC_iptv/C10000098@JSBC
-#EXTINF:-1 group-title="其他",CETV4
+#EXTINF:-1 group-title="其他",CETV-4
 http://112.86.202.37:8112/JSBC_iptv/C10000405@JSBC
 #EXTINF:-1 group-title="其他",中国天气
 http://112.86.202.37:8112/JSBC_iptv/C10000419@JSBC
@@ -173,6 +173,8 @@ http://112.86.202.37:8112/JSBC_iptv/C10000187@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
 #EXTINF:-1 group-title="其他",优漫卡通
 http://112.86.202.37:8112/JSBC_iptv/C10000228@JSBC
+#EXTINF:-1 group-title="其他",卡酷少儿
+http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
 #EXTINF:-1 group-title="其他",梨园频道
 http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
 #EXTINF:-1 group-title="其他",武术世界
@@ -187,8 +189,6 @@ http://112.86.202.37:8112/JSBC_iptv/C10000422@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
 #EXTINF:-1 group-title="其他",都市剧场
 http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
-#EXTINF:-1 group-title="其他",卡酷少儿
-http://112.86.202.37:8112/JSBC_iptv/C10000426@JSBC
 #EXTINF:-1 group-title="其他",睛彩青少
 http://112.86.202.37:8112/JSBC_iptv/C10000428@JSBC
 #EXTINF:-1 group-title="其他",睛彩广场舞
