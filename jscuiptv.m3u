@@ -49,8 +49,12 @@ http://10.0.0.20:5140/rtp/239.8.1.110:5000
 http://10.0.0.20:5140/rtp/239.8.1.87:5000
 #EXTINF:-1 group-title="4K",广东卫视4K
 http://10.0.0.20:5140/rtp/239.8.1.96:5000
+#EXTINF:-1 group-title="4K",广东卫视4K(HDR)
+http://10.0.0.20:5140/rtsp/112.86.202.37:554/JSBC_iptv/C10000437@JSBC
 #EXTINF:-1 group-title="4K",深圳卫视4K
 http://10.0.0.20:5140/rtp/239.8.1.97:5000
+#EXTINF:-1 group-title="4K",深圳卫视4K(HDR)
+http://10.0.0.20:5140/rtsp/112.86.202.37:554/JSBC_iptv/C10000439@JSBC
 #EXTINF:-1 group-title="4K",浙江卫视4K
 http://10.0.0.20:5140/rtp/239.8.1.111:5000
 #EXTINF:-1 group-title="4K",东方卫视4K
@@ -154,11 +158,11 @@ http://10.0.0.20:5140/rtp/239.8.1.119:5000
 #EXTINF:-1 group-title="江苏",好享购物
 http://10.0.0.20:5140/rtp/239.8.1.60:5000
 #EXTINF:-1 group-title="江苏",南通新闻综合
-http://10.0.0.20:5140/http/122.97.211.133:8112/JSBC_iptv/C10000411@JSBC
+http://10.0.0.20:5140/rtsp/112.86.202.37:554/JSBC_iptv/C10000411@JSBC
 #EXTINF:-1 group-title="江苏",南通社教
 http://10.0.0.20:5140/rtsp/112.86.202.37:554/JSBC_iptv/C10000412@JSBC
 #EXTINF:-1 group-title="江苏",南通公共
-http://10.0.0.20:5140/http/122.97.211.133:8112/JSBC_iptv/C10000413@JSBC
+http://10.0.0.20:5140/rtsp/112.86.202.37:554/JSBC_iptv/C10000413@JSBC
 #EXTINF:-1 group-title="其他",CETV-1
 http://10.0.0.20:5140/rtp/239.8.1.30:5000
 #EXTINF:-1 group-title="其他",CETV-2
