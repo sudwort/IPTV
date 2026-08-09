@@ -205,8 +205,6 @@ http://10.0.0.20:5140/rtp/239.8.1.95:5000
 http://10.0.0.20:5140/rtp/239.8.1.122:5000
 #EXTINF:-1 group-title="其他",测试2
 http://10.0.0.20:5140/rtp/239.8.1.124:5000
-#EXTINF:-1 group-title="其他",CCTV-13
-http://122.97.211.133:8112/JSBC_iptv/C10000232@JSBC?playseek=20260809110000-20260809120000
 #EXTINF:-1 group-title="境外",凤凰中文
 http://10.0.0.20:5140/http/r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="境外",凤凰资讯
