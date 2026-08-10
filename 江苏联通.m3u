@@ -158,7 +158,7 @@ rtp://239.8.1.119:5000
 #EXTINF:-1 group-title="江苏",好享购物
 rtp://239.8.1.60:5000
 #EXTINF:-1 group-title="江苏",南通新闻综合
-rtsp://122.97.211.133:554/JSBC_iptv/C10000411@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}
+rtsp://122.97.211.133:554/JSBC_iptv/C10000411@JSBC
 #EXTINF:-1 group-title="江苏",南通社教
 rtsp://122.97.211.133:554/JSBC_iptv/C10000412@JSBC
 #EXTINF:-1 group-title="江苏",南通公共
