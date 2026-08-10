@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml.gz"
 #EXTINF:-1 group-title="CCTV",CCTV-1
 rtp://239.8.1.1:5000
-#EXTINF:-1 group-title="CCTV",CCTV-1
-rtsp://122.97.211.133:554/JSBC_iptv/C10000037@JSBC?r2h-seek-mode=range(-604800)
+#EXTINF:-1 group-title="CCTV" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHis}-{utcend:YmdHis}",CCTV-1
+rtsp://122.97.211.133:554/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="CCTV",CCTV-2
 rtp://239.8.1.14:5000
 #EXTINF:-1 group-title="CCTV",CCTV-3
