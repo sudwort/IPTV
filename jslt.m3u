@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.136605.xyz/9days.xml.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
 http://10.0.0.20:5140/rtp/239.8.1.1:5000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV-2财经
@@ -39,7 +39,7 @@ http://10.0.0.20:5140/rtp/239.8.1.2:5000
 http://10.0.0.20:5140/rtp/239.8.0.9:5000
 #EXTINF:-1 tvg-id="23" tvg-name="CGTN俄语" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTNpyc.png" group-title="央视",CGTN-俄语
 http://10.0.0.20:5140/rtp/239.8.1.70:5000
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN西班牙语" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTN.png" group-title="央视",CGTN-西班牙语
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN西班牙语" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTNesp.png" group-title="央视",CGTN-西班牙语
 http://10.0.0.20:5140/rtp/239.8.1.116:5000
 #EXTINF:-1 tvg-id="22" tvg-name="CGTN法语" tvg-logo="https://pic.erw.cc/epglogo/cctv/CGTNFfra.png" group-title="央视",CGTN-法语
 http://10.0.0.20:5140/rtp/239.8.1.117:5000
