@@ -133,7 +133,7 @@ http://10.0.0.20:5140/rtp/239.8.1.120:5000
 http://10.0.0.20:5140/rtp/239.8.1.121:5000
 #EXTINF:-1 tvg-id="107" tvg-name="厦门卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Xiamen.png" group-title="卫视",厦门卫视
 http://10.0.0.20:5140/rtp/239.8.1.93:5000
-#EXTINF:-1 tvg-id="221" tvg-name="山东教育" tvg-logo="https://pic.erw.cc/epglogo/shandong/Shandong9.png" group-title="山东",山东教育
+#EXTINF:-1 tvg-id="221" tvg-name="山东教育" tvg-logo="https://pic.erw.cc/epglogo/shandong/Shandong9.png" group-title="卫视",山东教育
 http://10.0.0.20:5140/rtp/239.8.1.92:5000
 #EXTINF:-1 tvg-id="214" tvg-name="江苏城市" tvg-logo="https://pic.erw.cc/epglogo/jiangsu/Jiangsu2.png" group-title="江苏",江苏城市
 http://10.0.0.20:5140/rtp/239.8.1.54:5000
@@ -153,7 +153,7 @@ http://10.0.0.20:5140/rtp/239.8.1.123:5000
 http://10.0.0.20:5140/rtp/239.8.1.119:5000
 #EXTINF:-1 tvg-name="好享购物" group-title="江苏",好享购物
 http://10.0.0.20:5140/rtp/239.8.1.60:5000
-#EXTINF:-1 tvg-id="455" tvg-name="南京新闻综合" tvg-logo="https://pic.erw.cc/epglogo/nanjing/nanjing-1.png" group-title="江苏",南京新闻综合
+#EXTINF:-1 tvg-name="南通综合" group-title="江苏",南通综合
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000411@JSBC
 #EXTINF:-1 tvg-name="南通社教" group-title="江苏",南通社教
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000412@JSBC
@@ -169,11 +169,11 @@ http://10.0.0.20:5140/rtp/239.8.1.74:5000
 http://10.0.0.20:5140/rtp/239.8.1.80:5000
 #EXTINF:-1 tvg-id="173" tvg-name="快乐垂钓" tvg-logo="https://pic.erw.cc/epglogo/shuzi/klcd.png" group-title="数字付费",快乐垂钓
 http://10.0.0.20:5140/rtp/239.8.0.83:5000
-#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="湖南",金鹰纪实
+#EXTINF:-1 tvg-id="169" tvg-name="金鹰纪实" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan9.png" group-title="数字付费",金鹰纪实
 http://10.0.0.20:5140/rtp/239.8.1.35:5000
-#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="湖南",金鹰卡通
+#EXTINF:-1 tvg-id="168" tvg-name="金鹰卡通" tvg-logo="https://pic.erw.cc/epglogo/hunan/Hunan10.png" group-title="数字付费",金鹰卡通
 http://10.0.0.20:5140/rtp/239.8.1.53:5000
-#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://pic.erw.cc/epglogo/shuzi/ymkt.png" group-title="江苏",优漫卡通
+#EXTINF:-1 tvg-id="208" tvg-name="优漫卡通" tvg-logo="https://pic.erw.cc/epglogo/shuzi/ymkt.png" group-title="数字付费",优漫卡通
 http://10.0.0.20:5140/rtp/239.8.1.58:5000
 #EXTINF:-1 tvg-id="230" tvg-name="梨园频道" tvg-logo="https://pic.erw.cc/epglogo/shuzi/lypd.png" group-title="数字付费",梨园频道
 http://10.0.0.20:5140/rtp/239.8.1.67:5000
@@ -189,7 +189,7 @@ http://10.0.0.20:5140/rtp/239.8.1.83:5000
 http://10.0.0.20:5140/rtp/239.8.1.84:5000
 #EXTINF:-1 tvg-id="178" tvg-name="都市剧场" tvg-logo="https://pic.erw.cc/epglogo/shuzi/dsjc.png" group-title="数字付费",都市剧场
 http://10.0.0.20:5140/rtp/239.8.1.85:5000
-#EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="北京",卡酷少儿
+#EXTINF:-1 tvg-id="135" tvg-name="卡酷少儿" tvg-logo="https://pic.erw.cc/epglogo/beijing/Beijing8.png" group-title="数字付费",卡酷少儿
 http://10.0.0.20:5140/rtp/239.8.1.88:5000
 #EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" tvg-logo="https://pic.erw.cc/epglogo/shuzi/jingcai02.png" group-title="数字付费",睛彩青少
 http://10.0.0.20:5140/rtp/239.8.1.89:5000
