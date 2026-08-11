@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg.136605.xyz/9days.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
 http://10.0.0.20:5140/rtp/239.8.1.1:5000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV-2财经
