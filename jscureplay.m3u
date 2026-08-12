@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml.gz"
 #EXTINF:-1 group-title="CCTV" catchup="default" catchup-days="7" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC?playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}",CCTV-1
-http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}。
+http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC
