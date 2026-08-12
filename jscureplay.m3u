@@ -17,7 +17,7 @@ http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC?playseek=
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}。
 #EXTINF:-1 group-title="CCTV" catchup="default" catchup-days="7" catchup-source="?playseek={utc:yyyyMMddHHmmss}-{utcend:yyyyMMddHHmmss}&r2h-seek-offset=28800",CCTV-1
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}。
-#EXTINF:-1 group-title="CCTV" catchup="default" catchup-days="7" catchup-source="?playseek={L}-{l}",CCTV-1
+#EXTINF:-1 group-title="CCTV" catchup="default" catchup-days="7" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC?playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}",CCTV-1
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}。
 #EXTINF:-1 tvg-name="CCTV1" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC",CCTV1综合
 http://10.0.0.20:5140/rtp/239.8.1.1:5000
