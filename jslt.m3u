@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" group-title="央视" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC?playseek=${(b)timestamp}-${(e)timestamp}",CCTV-1综合
 http://10.0.0.20:5140/rtp/239.8.1.1:5000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" group-title="央视",CCTV-2财经
 http://10.0.0.20:5140/rtp/239.8.1.14:5000
