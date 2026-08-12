@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://tv.mxdyeah.top/epgphp/t.xml.gz"
-#EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC?playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}",CCTV-1
+#EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC?playseek=playseek={utc+28800:YmdHMS}-{utcend+28800:YmdHMS}",CCTV-1
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000038@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-2
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000038@JSBC
-#EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC?playseek={utc+8:YmdHMS}-{utcend+8:YmdHMS}",CCTV-3
+#EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC?playseek={(b)YmdHMS}-{(e)YmdHMS}",CCTV-4
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000039@JSBC
