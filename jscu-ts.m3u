@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/112114.xml.gz"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV1.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000037@JSBC?playseek=${(b)timestamp}-${(e)timestamp}" group-title="央视",CCTV-1综合
 rtp://239.8.1.1:5000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV2.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000038@JSBC?playseek=${(b)timestamp}-${(e)timestamp}" group-title="央视",CCTV-2财经
