@@ -205,7 +205,7 @@ rtp://239.8.1.95:5000
 rtp://239.8.1.122:5000
 #EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港澳台",凤凰中文
 http:php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="193" tvg-name="凤凰中文" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-id="193" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix1.png" group-title="港澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="194" tvg-name="凤凰资讯" tvg-logo="https://pic.erw.cc/epglogo/gangaotai/Phoenix2.png" group-title="港澳台",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
