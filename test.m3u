@@ -11,5 +11,5 @@ http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000042@JSBC
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000042@JSBC
 #EXTINF:-1 group-title="CCTV" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC?playseek=${(b)timestamp}-${(e)timestamp}",CCTV-9
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000042@JSBC
-#EXTINF:-1 group-title="湖南卫视" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC?playseek={utc:yyyyMMddHHmmss}-{utcend:yyyyMMddHHmmss}",湖南卫视
+#EXTINF:-1 group-title="湖南卫视" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000043@JSBC?playseek={yyyyMMddHHmmss}-{yyyyMMddHHmmss}",湖南卫视
 http://10.0.0.20:5140/rtsp/122.97.211.133:554/JSBC_iptv/C10000043@JSBC
