@@ -158,9 +158,9 @@ rtp://239.8.1.60:5000
 #EXTINF:-1 tvg-name="南通新闻综合" group-title="江苏",南通新闻综合
 rtsp://112.85.142.37:554/JSBC_iptv/C10000411@JSBC
 #EXTINF:-1 tvg-name="南通社教" group-title="江苏",南通社教
-http://112.85.142.37:554/JSBC_iptv/C10000412@JSBC
+rtsp://112.85.142.37:554/JSBC_iptv/C10000412@JSBC
 #EXTINF:-1 tvg-name="南通公共" group-title="江苏",南通公共
-http://112.85.142.37:554/JSBC_iptv/C10000413@JSBC
+rtsp://112.85.142.37:554/JSBC_iptv/C10000413@JSBC
 #EXTINF:-1 tvg-id="151" tvg-name="CETV1" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-1.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000173@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="央视",中国教育1台
 rtp://239.8.1.30:5000
 #EXTINF:-1 tvg-id="152" tvg-name="CETV2" tvg-logo="https://pic.erw.cc/epglogo/cctv/CETV-2.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000098@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="央视",中国教育2台
