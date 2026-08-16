@@ -59,6 +59,8 @@ rtp://239.8.1.97:5000
 rtp://239.8.1.111:5000
 #EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000463@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",东方卫视4K
 rtp://239.8.1.114:5000
+#EXTINF:-1 tvg-id="80" tvg-name="东方卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Dongfang4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000463@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",东方卫视4K
+http://14.145.187.131:4022/rtp/239.77.0.59:5146
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000461@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",湖南卫视4K
 rtp://239.8.1.113:5000
 #EXTINF:-1 tvg-id="78" tvg-name="四川卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Sichuan4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000459@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",四川卫视4K
