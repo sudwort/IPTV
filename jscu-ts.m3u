@@ -203,7 +203,13 @@ rtp://239.8.1.90:5000
 rtp://239.8.1.95:5000
 #EXTINF:-1 tvg-id="437" tvg-name="中学生" tvg-logo="https://pic.erw.cc/epglogo/cctv/cctvzxs.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000471@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="数字付费",中学生
 rtp://239.8.1.122:5000
-#EXTINF:-1 tvg-name="测试4K" group-title="测试",测试4K
+#EXTINF:-1 tvg-name="测试4K" group-title="测试",测试1
 rtp://239.8.1.251:5000
 #EXTINF:-1 tvg-name="测试2" group-title="测试",测试2
 rtp://239.8.1.124:5000
+#EXTINF:-1 tvg-name="测试3" group-title="测试",测试3
+rtp://239.8.1.125:5000
+#EXTINF:-1 tvg-name="测试2" group-title="测试",测试4
+rtp://239.8.1.126:5000
+#EXTINF:-1 tvg-name="测试2" group-title="测试",测试5
+rtp://239.8.1.127:5000
