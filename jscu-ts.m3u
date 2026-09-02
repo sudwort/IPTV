@@ -46,7 +46,7 @@ rtp://239.8.1.117:5000
 #EXTINF:-1 tvg-id="26" tvg-name="CCTV4K" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV4k.png" catchup="default" catchup-source="http://122.97.211.133:8112/JSBC_iptv/C10000473@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",CCTV-4K
 rtsp://122.97.211.133:554/JSBC_iptv/C10000473@JSBC
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://pic.erw.cc/epglogo/cctv/CCTV16.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000474@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",CCTV-16 4K
-rtsp://112.85.142.37:554/JSBC_iptv/C10000474@JSBC
+rtp://239.8.1.125:5000
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000455@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",江苏卫视4K
 rtp://239.8.1.110:5000
 #EXTINF:-1 tvg-id="90" tvg-name="北京卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Beijing4K.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000435@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",北京卫视4K
@@ -212,7 +212,7 @@ rtp://239.8.1.251:5000
 #EXTINF:-1 tvg-name="测试2" group-title="测试",测试2
 rtp://239.8.1.124:5000
 #EXTINF:-1 tvg-name="测试3" group-title="测试",测试3
-rtp://239.8.1.125:5000
+rtp://239.8.1.127:5000
 #EXTINF:-1 tvg-name="测试2" group-title="测试",测试4
 rtp://239.8.1.126:5000
 #EXTINF:-1 tvg-name="测试2" group-title="测试",测试5
