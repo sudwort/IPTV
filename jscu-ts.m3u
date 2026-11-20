@@ -69,6 +69,16 @@ rtp://239.8.1.113:5000
 rtp://239.8.1.112:5000
 #EXTINF:-1 tvg-id="89" tvg-name="山东卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Shandong4k.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000465@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",山东卫视4K
 rtp://239.8.1.115:5000
+#EXTINF:-1 tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Chongqing4k.png" catchup="default" catchup-source="http://122.97.211.133:8112/JSBC_iptv/C10000480@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",重庆卫视4K
+rtp://122.97.211.133:554/JSBC_iptv/C10000480@JSBC
+#EXTINF:-1 tvg-id="86" tvg-name="辽宁卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Liaoning4k.png" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000481@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",辽宁卫视4K
+rtp://112.86.202.37:554/JSBC_iptv/C10000481@JSBC
+#EXTINF:-1 tvg-id="95" tvg-name="江西卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangxi4k.png" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000482@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",江西卫视4K
+rtp://112.86.202.37:554/JSBC_iptv/C10000482@JSBC
+#EXTINF:-1 tvg-id="84" tvg-name="天津卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Tianjin4k.png" catchup="default" catchup-source="http://122.97.211.133:8112/JSBC_iptv/C10000483@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",天津卫视4K
+rtp://122.97.211.133:554/JSBC_iptv/C10000483@JSBC
+#EXTINF:-1 tvg-id="79" tvg-name="贵州卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Guizhou4k.png" catchup="default" catchup-source="http://112.86.202.37:8112/JSBC_iptv/C10000484@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="4K",贵州卫视4K
+rtp://112.86.202.37:554/JSBC_iptv/C10000484@JSBC
 #EXTINF:-1 tvg-id="91" tvg-name="江苏卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Jiangsu.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000015@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="卫视",江苏卫视
 rtp://239.8.1.3:5000
 #EXTINF:-1 tvg-id="81" tvg-name="湖南卫视" tvg-logo="https://pic.erw.cc/epglogo/weishi/Hunan.png" catchup="default" catchup-source="http://112.85.142.37:8112/JSBC_iptv/C10000043@JSBC?playseek={utc:YmdHMS}-{utcend:YmdHMS}&r2h-seek-offset=28800"group-title="卫视",湖南卫视
